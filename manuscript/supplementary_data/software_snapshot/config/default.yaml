@@ -1,0 +1,69 @@
+project:
+  name: PBSK
+  version: "4.0.0"
+  repository: "https://github.com/Arithmetic-Power-Geometry/PBSK"
+  license: "Apache-2.0"
+  conceptual_source:
+    author: "Mohammad Amir Khusru Akhtar (Shunya)"
+    title: "THE IMPOSSIBLE IDEA: How New Realities Enter the World"
+    year: 2026
+    url: "https://a.co/d/03buY0qI"
+
+experiment:
+  offsets: [5, 3, 1]
+  lookback_years: 10
+  post_landmark_years: 10
+  minimum_year: 1950
+  current_year: 2026
+  max_records_per_region_window: 600
+  balanced_records_per_year: 100
+  min_documents_for_semantics: 20
+  min_documents_for_inference: 60
+  min_years_covered_for_inference: 5
+  random_seed: 20260816
+  bootstrap_iterations: 1000
+  permutation_iterations: 5000
+  prediction_horizon_years: 3
+
+power_validation:
+  enabled: true
+  cutoff_year: 2018
+  outcome_end_year: 2023
+  topic_sample_size: 800
+  minimum_topic_works: 1000
+  minimum_pre_count: 40
+  target_positive_topics: 120
+  minimum_required_positive_topics: 100
+  controls_per_positive: 2
+  max_records_per_topic_window: 300
+  balanced_records_per_year: 60
+  replication_pubmed_max_records: 250
+
+openalex:
+  base_url: "https://api.openalex.org"
+  per_page: 100
+  timeout_seconds: 60
+  max_retries: 6
+  sleep_seconds: 0.10
+  select: "id,doi,display_name,title,publication_year,publication_date,cited_by_count,referenced_works,topics,primary_topic,abstract_inverted_index,type"
+
+pubmed:
+  base_url: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+  timeout_seconds: 60
+  max_retries: 6
+  batch_size: 200
+  tool: "PBSK"
+  contact_email_env: "PBSK_CONTACT_EMAIL"
+
+analysis:
+  boundary_margin: 0.12
+  tfidf_max_features: 8000
+  svd_components: 40
+  minimum_clusters: 2
+  fixed_pbs_weights:
+    density_gap: 0.20
+    boundary_activity: 0.20
+    complementarity: 0.20
+    momentum: 0.15
+    recombination: 0.10
+    convergence: 0.15

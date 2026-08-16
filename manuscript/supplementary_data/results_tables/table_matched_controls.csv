@@ -1,0 +1,25 @@
+control_id,match_case_id,label,query,domain,book_realm
+crispr_c1,crispr,Zinc-finger nuclease engineering,zinc finger nuclease genome engineering,Life Sciences,Life
+crispr_c2,crispr,Meganuclease genome engineering,meganuclease genome engineering,Life Sciences,Life
+ips_c1,ips,Adult stem-cell transdifferentiation,adult stem cell transdifferentiation,Life Sciences,Life
+ips_c2,ips,Somatic cell nuclear transfer,somatic cell nuclear transfer reprogramming,Life Sciences,Life
+mrna_c1,mrna,DNA vaccine platforms,DNA vaccine platform immunization,Life Sciences,Life
+mrna_c2,mrna,Viral-vector vaccine platforms,viral vector vaccine platform,Life Sciences,Life
+alphafold2_c1,alphafold2,Protein threading methods,protein threading structure prediction,Life Sciences,Life
+alphafold2_c2,alphafold2,Homology modelling,protein homology modeling structure prediction,Life Sciences,Life
+singlecell_c1,singlecell,Bulk RNA sequencing,bulk RNA sequencing transcriptomics,Life Sciences,Life
+singlecell_c2,singlecell,Microarray transcriptomics,microarray transcriptome gene expression profiling,Life Sciences,Life
+rnai_c1,rnai,Antisense oligonucleotide silencing,antisense oligonucleotide gene silencing,Life Sciences,Life
+rnai_c2,rnai,Ribozyme gene silencing,ribozyme gene silencing,Life Sciences,Life
+graphene_c1,graphene,Carbon nanotube electronics,carbon nanotube electronic transport,Physical Sciences,Nature
+graphene_c2,graphene,Graphite intercalation compounds,graphite intercalation compound electronic,Physical Sciences,Nature
+transformer_c1,transformer,Recurrent neural sequence models,recurrent neural network sequence modeling LSTM,Computer Science,Machines
+transformer_c2,transformer,Convolutional sequence models,convolutional neural network sequence modeling,Computer Science,Machines
+resnet_c1,resnet,Highway neural networks,highway network deep neural,Computer Science,Machines
+resnet_c2,resnet,Plain very-deep convolutional networks,very deep convolutional neural network plain,Computer Science,Machines
+diffusion_c1,diffusion,Variational autoencoder generation,variational autoencoder generative model,Computer Science,Machines
+diffusion_c2,diffusion,Autoregressive image generation,autoregressive image generative model,Computer Science,Machines
+rag_c1,rag,Closed-book language model question answering,closed book question answering language model,Computer Science,Machines
+rag_c2,rag,Information retrieval neural ranking,information retrieval neural ranking question answering,Computer Science,Machines
+qec_c1,qec,Classical error correcting codes,classical error correcting code coding theory,Physical Sciences,Nature
+qec_c2,qec,Quantum decoherence control,quantum decoherence control dynamical decoupling,Physical Sciences,Nature

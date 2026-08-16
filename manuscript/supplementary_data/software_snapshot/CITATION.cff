@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "PBSK: Possibility-to-Breakthrough Structure in Knowledge"
+message: "If you use PBSK, please cite this software and the conceptual source listed below."
+type: software
+authors:
+  - family-names: "Akhtar"
+    given-names: "Mohammad Amir Khusru"
+year: 2026
+version: 4.0.0
+license: Apache-2.0
+repository-code: "https://github.com/Arithmetic-Power-Geometry/PBSK"
+url: "https://github.com/Arithmetic-Power-Geometry/PBSK"
+references:
+  - type: book
+    authors:
+      - family-names: "Akhtar"
+        given-names: "Mohammad Amir Khusru"
+    title: "THE IMPOSSIBLE IDEA: How New Realities Enter the World"
+    year: 2026
+    url: "https://a.co/d/03buY0qI"

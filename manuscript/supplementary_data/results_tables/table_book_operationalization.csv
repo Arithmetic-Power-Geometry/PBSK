@@ -1,0 +1,41 @@
+chapter,part,title,book_theme,software_construct,primary_measure,status
+1,The Invisible World,The Day Before the Idea,Pre-existence of novelty,Possibility pressure,density gap + complementarity + possibility language,Operationalized
+2,The Invisible World,The Territory of Possibility,Possibility space,Possibility pressure,latent-gap geometry,Operationalized
+3,The Invisible World,The Things That Do Not Yet Exist,Unrealized futures,Possibility pressure,pre-landmark latent structure,Operationalized
+4,The Invisible World,The Invisible Door,Anomalies/openings,Boundary activity,boundary-document share + anomaly pressure,Operationalized
+5,The Invisible World,The Shape of the Unseen,Hidden structure,Structured Knowledge Gap,SKG geometric mean,Operationalized
+6,The Invisible World,The First Impossible Thing,Boundary challenge,Doubt tension,boundary/challenge lexical signal,Operationalized
+7,The Invisible World,The Library of Futures,Future possibility space,Possibility pressure,latent-region score,Operationalized
+8,The Invisible World,Why Reality Is Incomplete,Knowledge incompleteness,Gap geometry,density gap + unanswered-question signal,Operationalized
+9,The Question,The Difference Between Seeing and Looking,Attention to weak signals,Boundary activity,boundary-document share,Operationalized
+10,The Question,The Question Nobody Asked,Unasked questions,Question pressure,question/gap/problem language,Operationalized
+11,The Question,The Power of Strange Questions,Novel questioning,Question pressure,question pressure × originality risk,Operationalized
+12,The Question,Curiosity's Secret,Exploration,Exploratory breadth,topic complementarity,Operationalized
+13,The Question,The Art of Productive Confusion,Confusion as information,Anomaly pressure,confusion/uncertainty/contradiction language,Operationalized
+14,The Question,The Problem Hidden Inside the Answer,Residual problems,Anomaly pressure,unexplained/gap/problem language,Operationalized
+15,The Question,Why Doubt Creates,Constructive skepticism,Doubt tension,challenge/assumption/limitation signal,Operationalized
+16,The Question,The Edge of Understanding,Knowledge boundary,Boundary activity,semantic boundary share,Operationalized
+17,The Pattern,The Pattern Hunter,Pattern recognition,Pattern formation,recent semantic coherence/reorganization,Operationalized
+18,The Pattern,Similarities Nobody Else Sees,Cross-domain similarity,Cross-domain similarity,cluster centroid similarity,Operationalized
+19,The Pattern,The Bridge Between Worlds,Bridging separated domains,Bridge formation,multi-topic bridge share,Operationalized
+20,The Pattern,The Language of Analogy,Analogical transfer,Analogical transfer,bridge × structural similarity × recombination,Operationalized proxy
+21,The Pattern,The Collision of Ideas,Productive collision,Collision index,diversity × interaction × distance,Operationalized
+22,The Pattern,The Geometry of Surprise,Expectation violation,Surprise geometry,recent distance from prior semantic centroid,Operationalized
+23,The Pattern,The Architecture of Insight,Coherent reorganization,Insight coherence,change in semantic cohesion,Operationalized
+24,The Pattern,The Birth of a New Pattern,Pattern stabilization,Pattern formation,coherence + reorganization,Operationalized
+25,The Leap,Why Great Ideas Arrive Suddenly,Sudden emergence,Leap nonlinearity,max annual log-growth change,Operationalized
+26,The Leap,The Night Shift of the Mind,Latent incubation,Sequence architecture,pre-breakthrough ordered-state support,Operationalized literature proxy
+27,The Leap,Dreams Visions and Discoveries,Non-conscious recombination,Recombination,reference/topic recombination proxy,Operationalized literature proxy
+28,The Leap,The Moment Everything Changes,Phase transition,Leap nonlinearity,change-point proxy,Operationalized
+29,The Leap,The Courage to Be Wrong,Risk under uncertainty,Originality risk,semantic distance from prior centroid,Operationalized
+30,The Leap,The Risk of Originality,Departure from convention,Originality risk,semantic novelty,Operationalized
+31,The Leap,When the Impossible Becomes Obvious,Normalization,Normalization index,post/pre accepted-standard language shift,Operationalized
+32,The Leap,The Transformation,System reorganization,Transformation score,post growth + diffusion + normalization + adoption,Operationalized
+33,The Creative Universe,The Creativity of Nature,Nature explores possibility,Creative-universe realm,Nature stratum,Supported when benchmark contains Nature cases
+34,The Creative Universe,The Creativity of Life,Life explores possibility,Creative-universe realm,Life stratum,Supported
+35,The Creative Universe,The Creativity of Minds,Minds explore possibility,Creative-universe realm,Minds stratum,Supported for custom/default benchmarks containing cognitive cases
+36,The Creative Universe,The Creativity of Cultures,Cultures explore possibility,Creative-universe realm,Cultures stratum,Supported for custom/default benchmarks containing social/cultural cases
+37,The Creative Universe,The Creativity of Machines,Machines explore possibility,Creative-universe realm,Machines stratum,Supported
+38,The Creative Universe,The Creativity of the Future,Future as possibility landscape,Temporal holdout,T-5/T-3/T-1 prediction + post transformation,Operationalized
+39,The Creative Universe,The Hidden Pattern Behind All Ideas,Common generative sequence,Sequence order score,ordered-state concordance,Operationalized
+40,The Creative Universe,The Impossible Idea,Possibility becoming reality,Book-wide PBSK,composite pre-discovery architecture + transformation,Operationalized

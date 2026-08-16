@@ -1,0 +1,1013 @@
+region_id,match_case_id,offset,target,book_realm,model,probability
+crispr,crispr,5,1,Life,Activity/citation baseline,0.5958518595801549
+crispr,crispr,3,1,Life,Activity/citation baseline,0.6767687189144821
+crispr,crispr,1,1,Life,Activity/citation baseline,0.7398999915683176
+ips,ips,5,1,Life,Activity/citation baseline,0.3881874966179561
+ips,ips,3,1,Life,Activity/citation baseline,0.23992242639610434
+ips,ips,1,1,Life,Activity/citation baseline,0.2844681091969076
+mrna,mrna,5,1,Life,Activity/citation baseline,0.3771876504972205
+mrna,mrna,3,1,Life,Activity/citation baseline,0.4045096977328917
+mrna,mrna,1,1,Life,Activity/citation baseline,0.4026647968005987
+alphafold2,alphafold2,1,1,Life,Activity/citation baseline,0.04745961058804649
+singlecell,singlecell,5,1,Life,Activity/citation baseline,0.6035282357112484
+singlecell,singlecell,3,1,Life,Activity/citation baseline,0.5948284298835512
+singlecell,singlecell,1,1,Life,Activity/citation baseline,0.445904859980148
+rnai,rnai,3,1,Life,Activity/citation baseline,0.7416604893886601
+rnai,rnai,1,1,Life,Activity/citation baseline,0.7242349010172379
+graphene,graphene,3,1,Nature,Activity/citation baseline,0.774678113432122
+graphene,graphene,1,1,Nature,Activity/citation baseline,0.8298260991055595
+transformer,transformer,5,1,Machines,Activity/citation baseline,0.5090070672645381
+transformer,transformer,3,1,Machines,Activity/citation baseline,0.5546452297574309
+transformer,transformer,1,1,Machines,Activity/citation baseline,0.5583265671279553
+resnet,resnet,5,1,Machines,Activity/citation baseline,0.5150314749946666
+resnet,resnet,3,1,Machines,Activity/citation baseline,0.599873499789492
+resnet,resnet,1,1,Machines,Activity/citation baseline,0.5764335471688983
+diffusion,diffusion,5,1,Machines,Activity/citation baseline,0.01825320765638605
+diffusion,diffusion,3,1,Machines,Activity/citation baseline,0.07501107499564086
+diffusion,diffusion,1,1,Machines,Activity/citation baseline,0.2899851358390565
+rag,rag,5,1,Machines,Activity/citation baseline,0.5735889721194762
+rag,rag,3,1,Machines,Activity/citation baseline,0.6405699517335335
+rag,rag,1,1,Machines,Activity/citation baseline,0.620847277946667
+crispr_c1,crispr,5,0,Life,Activity/citation baseline,0.46986131532704256
+crispr_c1,crispr,3,0,Life,Activity/citation baseline,0.48524924592887914
+crispr_c1,crispr,1,0,Life,Activity/citation baseline,0.35799918641202816
+crispr_c2,crispr,3,0,Life,Activity/citation baseline,0.4699127949564885
+crispr_c2,crispr,1,0,Life,Activity/citation baseline,0.45628807984055847
+ips_c1,ips,5,0,Life,Activity/citation baseline,0.43052269001763865
+ips_c1,ips,3,0,Life,Activity/citation baseline,0.16918224948706687
+ips_c1,ips,1,0,Life,Activity/citation baseline,0.13272723584891685
+ips_c2,ips,5,0,Life,Activity/citation baseline,0.10138476111887948
+ips_c2,ips,3,0,Life,Activity/citation baseline,0.07906115345451273
+ips_c2,ips,1,0,Life,Activity/citation baseline,0.06881602097091803
+mrna_c1,mrna,5,0,Life,Activity/citation baseline,0.4438109164487072
+mrna_c1,mrna,3,0,Life,Activity/citation baseline,0.4345729470013748
+mrna_c1,mrna,1,0,Life,Activity/citation baseline,0.43116860343038427
+mrna_c2,mrna,5,0,Life,Activity/citation baseline,0.4011964090825877
+mrna_c2,mrna,3,0,Life,Activity/citation baseline,0.4165055719649141
+mrna_c2,mrna,1,0,Life,Activity/citation baseline,0.40246728594227343
+alphafold2_c1,alphafold2,5,0,Life,Activity/citation baseline,0.5637560079547467
+alphafold2_c1,alphafold2,3,0,Life,Activity/citation baseline,0.5839695237655635
+alphafold2_c1,alphafold2,1,0,Life,Activity/citation baseline,0.6963240413056303
+alphafold2_c2,alphafold2,5,0,Life,Activity/citation baseline,0.5481325291299733
+alphafold2_c2,alphafold2,3,0,Life,Activity/citation baseline,0.6477111920980165
+alphafold2_c2,alphafold2,1,0,Life,Activity/citation baseline,0.6441941677309064
+singlecell_c1,singlecell,5,0,Life,Activity/citation baseline,0.6710594461640877
+singlecell_c1,singlecell,3,0,Life,Activity/citation baseline,0.7775686168445064
+singlecell_c1,singlecell,1,0,Life,Activity/citation baseline,0.7395188793620676
+singlecell_c2,singlecell,5,0,Life,Activity/citation baseline,0.44157181415662417
+singlecell_c2,singlecell,3,0,Life,Activity/citation baseline,0.3392751142329207
+singlecell_c2,singlecell,1,0,Life,Activity/citation baseline,0.25792605291623516
+rnai_c1,rnai,5,0,Life,Activity/citation baseline,0.5850261214932609
+rnai_c1,rnai,3,0,Life,Activity/citation baseline,0.5872475340511635
+rnai_c1,rnai,1,0,Life,Activity/citation baseline,0.49665437819362407
+graphene_c1,graphene,5,0,Nature,Activity/citation baseline,0.35026996556330237
+graphene_c1,graphene,3,0,Nature,Activity/citation baseline,0.2885040045682182
+graphene_c1,graphene,1,0,Nature,Activity/citation baseline,0.2530913346878869
+graphene_c2,graphene,5,0,Nature,Activity/citation baseline,0.39468890855393707
+graphene_c2,graphene,3,0,Nature,Activity/citation baseline,0.4442702669659277
+graphene_c2,graphene,1,0,Nature,Activity/citation baseline,0.5123204191825039
+transformer_c1,transformer,3,0,Machines,Activity/citation baseline,0.5509526635046218
+transformer_c1,transformer,1,0,Machines,Activity/citation baseline,0.07354952892358263
+transformer_c2,transformer,5,0,Machines,Activity/citation baseline,0.5425011281043325
+transformer_c2,transformer,3,0,Machines,Activity/citation baseline,0.5714657916129737
+transformer_c2,transformer,1,0,Machines,Activity/citation baseline,0.3570158517464428
+resnet_c1,resnet,5,0,Machines,Activity/citation baseline,0.5654041324487616
+resnet_c1,resnet,3,0,Machines,Activity/citation baseline,0.623932887803666
+resnet_c1,resnet,1,0,Machines,Activity/citation baseline,0.5962259722438408
+resnet_c2,resnet,5,0,Machines,Activity/citation baseline,0.6651278290046986
+resnet_c2,resnet,3,0,Machines,Activity/citation baseline,0.7041244406920745
+resnet_c2,resnet,1,0,Machines,Activity/citation baseline,0.7189524531171446
+diffusion_c1,diffusion,3,0,Machines,Activity/citation baseline,0.18745273522541026
+diffusion_c1,diffusion,1,0,Machines,Activity/citation baseline,0.5015296219025408
+diffusion_c2,diffusion,5,0,Machines,Activity/citation baseline,0.24004541400401225
+diffusion_c2,diffusion,3,0,Machines,Activity/citation baseline,0.25812157456580404
+diffusion_c2,diffusion,1,0,Machines,Activity/citation baseline,0.34719589786872773
+rag_c1,rag,5,0,Machines,Activity/citation baseline,0.7462522906128506
+rag_c1,rag,3,0,Machines,Activity/citation baseline,0.7784594351377201
+rag_c1,rag,1,0,Machines,Activity/citation baseline,0.8217882297991403
+rag_c2,rag,5,0,Machines,Activity/citation baseline,0.40681907340376067
+rag_c2,rag,3,0,Machines,Activity/citation baseline,0.5919986012475592
+rag_c2,rag,1,0,Machines,Activity/citation baseline,0.572471634682082
+qec_c1,qec,5,0,Nature,Activity/citation baseline,0.40699586209632543
+qec_c1,qec,3,0,Nature,Activity/citation baseline,0.5589380160497944
+qec_c1,qec,1,0,Nature,Activity/citation baseline,0.6060938239058332
+crispr,crispr,5,1,Life,Legacy PBS only,0.4437643095151641
+crispr,crispr,3,1,Life,Legacy PBS only,0.423776097421091
+crispr,crispr,1,1,Life,Legacy PBS only,0.42650921387412316
+ips,ips,5,1,Life,Legacy PBS only,0.4738506464702979
+ips,ips,3,1,Life,Legacy PBS only,0.4857686311655064
+ips,ips,1,1,Life,Legacy PBS only,0.49835016525706105
+mrna,mrna,5,1,Life,Legacy PBS only,0.482892461264766
+mrna,mrna,3,1,Life,Legacy PBS only,0.44771124434852755
+mrna,mrna,1,1,Life,Legacy PBS only,0.5002141605435086
+alphafold2,alphafold2,1,1,Life,Legacy PBS only,0.470229462609213
+singlecell,singlecell,5,1,Life,Legacy PBS only,0.5145157989357217
+singlecell,singlecell,3,1,Life,Legacy PBS only,0.5103151732705897
+singlecell,singlecell,1,1,Life,Legacy PBS only,0.5074277299587482
+rnai,rnai,3,1,Life,Legacy PBS only,0.48879196903873345
+rnai,rnai,1,1,Life,Legacy PBS only,0.49346443509331434
+graphene,graphene,3,1,Nature,Legacy PBS only,0.5022127985373094
+graphene,graphene,1,1,Nature,Legacy PBS only,0.5299588186638412
+transformer,transformer,5,1,Machines,Legacy PBS only,0.5047959823604795
+transformer,transformer,3,1,Machines,Legacy PBS only,0.5008017258881997
+transformer,transformer,1,1,Machines,Legacy PBS only,0.4928338555122473
+resnet,resnet,5,1,Machines,Legacy PBS only,0.47885380636408625
+resnet,resnet,3,1,Machines,Legacy PBS only,0.4842705638264313
+resnet,resnet,1,1,Machines,Legacy PBS only,0.5082945979216953
+diffusion,diffusion,5,1,Machines,Legacy PBS only,0.502517708518748
+diffusion,diffusion,3,1,Machines,Legacy PBS only,0.5129116055934488
+diffusion,diffusion,1,1,Machines,Legacy PBS only,0.49709055590615736
+rag,rag,5,1,Machines,Legacy PBS only,0.4983851677891827
+rag,rag,3,1,Machines,Legacy PBS only,0.48877782715495455
+rag,rag,1,1,Machines,Legacy PBS only,0.48483386096134184
+crispr_c1,crispr,5,0,Life,Legacy PBS only,0.5744547686810509
+crispr_c1,crispr,3,0,Life,Legacy PBS only,0.4794671481785332
+crispr_c1,crispr,1,0,Life,Legacy PBS only,0.4562416320881443
+crispr_c2,crispr,3,0,Life,Legacy PBS only,0.46635125631897034
+crispr_c2,crispr,1,0,Life,Legacy PBS only,0.462397303111642
+ips_c1,ips,5,0,Life,Legacy PBS only,0.4758794213587707
+ips_c1,ips,3,0,Life,Legacy PBS only,0.4484236991104403
+ips_c1,ips,1,0,Life,Legacy PBS only,0.46541122720476613
+ips_c2,ips,5,0,Life,Legacy PBS only,0.4983976890130839
+ips_c2,ips,3,0,Life,Legacy PBS only,0.5057608460313491
+ips_c2,ips,1,0,Life,Legacy PBS only,0.5186137061090667
+mrna_c1,mrna,5,0,Life,Legacy PBS only,0.477656733665224
+mrna_c1,mrna,3,0,Life,Legacy PBS only,0.5015718247481123
+mrna_c1,mrna,1,0,Life,Legacy PBS only,0.48833335902741754
+mrna_c2,mrna,5,0,Life,Legacy PBS only,0.43302812664193197
+mrna_c2,mrna,3,0,Life,Legacy PBS only,0.5019553988723678
+mrna_c2,mrna,1,0,Life,Legacy PBS only,0.47934002376359947
+alphafold2_c1,alphafold2,5,0,Life,Legacy PBS only,0.5202603281571149
+alphafold2_c1,alphafold2,3,0,Life,Legacy PBS only,0.5091773582140453
+alphafold2_c1,alphafold2,1,0,Life,Legacy PBS only,0.49747850417369943
+alphafold2_c2,alphafold2,5,0,Life,Legacy PBS only,0.4930853648519422
+alphafold2_c2,alphafold2,3,0,Life,Legacy PBS only,0.48649455877661657
+alphafold2_c2,alphafold2,1,0,Life,Legacy PBS only,0.5127989689521439
+singlecell_c1,singlecell,5,0,Life,Legacy PBS only,0.5004981097439667
+singlecell_c1,singlecell,3,0,Life,Legacy PBS only,0.5013246292362555
+singlecell_c1,singlecell,1,0,Life,Legacy PBS only,0.5281738191465734
+singlecell_c2,singlecell,5,0,Life,Legacy PBS only,0.5370502660882349
+singlecell_c2,singlecell,3,0,Life,Legacy PBS only,0.518144658452382
+singlecell_c2,singlecell,1,0,Life,Legacy PBS only,0.5234301652442772
+rnai_c1,rnai,5,0,Life,Legacy PBS only,0.486732069631519
+rnai_c1,rnai,3,0,Life,Legacy PBS only,0.49549550396709946
+rnai_c1,rnai,1,0,Life,Legacy PBS only,0.49278601314587017
+graphene_c1,graphene,5,0,Nature,Legacy PBS only,0.5713720930823759
+graphene_c1,graphene,3,0,Nature,Legacy PBS only,0.5240500972565064
+graphene_c1,graphene,1,0,Nature,Legacy PBS only,0.5402347420218987
+graphene_c2,graphene,5,0,Nature,Legacy PBS only,0.5705426544636576
+graphene_c2,graphene,3,0,Nature,Legacy PBS only,0.5541975593496956
+graphene_c2,graphene,1,0,Nature,Legacy PBS only,0.5624595624010165
+transformer_c1,transformer,3,0,Machines,Legacy PBS only,0.4923918316451869
+transformer_c1,transformer,1,0,Machines,Legacy PBS only,0.5005423971962497
+transformer_c2,transformer,5,0,Machines,Legacy PBS only,0.49030665134223794
+transformer_c2,transformer,3,0,Machines,Legacy PBS only,0.509657982251496
+transformer_c2,transformer,1,0,Machines,Legacy PBS only,0.5157723374210508
+resnet_c1,resnet,5,0,Machines,Legacy PBS only,0.49057754964191447
+resnet_c1,resnet,3,0,Machines,Legacy PBS only,0.4569811409275322
+resnet_c1,resnet,1,0,Machines,Legacy PBS only,0.5063620983482239
+resnet_c2,resnet,5,0,Machines,Legacy PBS only,0.47956354700542925
+resnet_c2,resnet,3,0,Machines,Legacy PBS only,0.4980091264943478
+resnet_c2,resnet,1,0,Machines,Legacy PBS only,0.5026547415954905
+diffusion_c1,diffusion,3,0,Machines,Legacy PBS only,0.52059706839816
+diffusion_c1,diffusion,1,0,Machines,Legacy PBS only,0.5411105837937696
+diffusion_c2,diffusion,5,0,Machines,Legacy PBS only,0.5050505247384945
+diffusion_c2,diffusion,3,0,Machines,Legacy PBS only,0.5182573157485526
+diffusion_c2,diffusion,1,0,Machines,Legacy PBS only,0.5084852961469073
+rag_c1,rag,5,0,Machines,Legacy PBS only,0.48318110971003875
+rag_c1,rag,3,0,Machines,Legacy PBS only,0.492351970379091
+rag_c1,rag,1,0,Machines,Legacy PBS only,0.4713445792060546
+rag_c2,rag,5,0,Machines,Legacy PBS only,0.5171070570481265
+rag_c2,rag,3,0,Machines,Legacy PBS only,0.49749664457078896
+rag_c2,rag,1,0,Machines,Legacy PBS only,0.45997216801934504
+qec_c1,qec,5,0,Nature,Legacy PBS only,0.48951291871463587
+qec_c1,qec,3,0,Nature,Legacy PBS only,0.4960186495438275
+qec_c1,qec,1,0,Nature,Legacy PBS only,0.4778012158922469
+crispr,crispr,5,1,Life,Book-wide PBSK only,0.4713981454981694
+crispr,crispr,3,1,Life,Book-wide PBSK only,0.4647434491926329
+crispr,crispr,1,1,Life,Book-wide PBSK only,0.46782310394710547
+ips,ips,5,1,Life,Book-wide PBSK only,0.5116823215522831
+ips,ips,3,1,Life,Book-wide PBSK only,0.47439422605798515
+ips,ips,1,1,Life,Book-wide PBSK only,0.4890381953973923
+mrna,mrna,5,1,Life,Book-wide PBSK only,0.5155730109079394
+mrna,mrna,3,1,Life,Book-wide PBSK only,0.5091857374710657
+mrna,mrna,1,1,Life,Book-wide PBSK only,0.5157608705523298
+alphafold2,alphafold2,1,1,Life,Book-wide PBSK only,0.4634549707902873
+singlecell,singlecell,5,1,Life,Book-wide PBSK only,0.5088996344668698
+singlecell,singlecell,3,1,Life,Book-wide PBSK only,0.4990096655828967
+singlecell,singlecell,1,1,Life,Book-wide PBSK only,0.4972988972238861
+rnai,rnai,3,1,Life,Book-wide PBSK only,0.5136275777977167
+rnai,rnai,1,1,Life,Book-wide PBSK only,0.5196220400075074
+graphene,graphene,3,1,Nature,Book-wide PBSK only,0.5050553753042262
+graphene,graphene,1,1,Nature,Book-wide PBSK only,0.5151730004514133
+transformer,transformer,5,1,Machines,Book-wide PBSK only,0.48696895044759336
+transformer,transformer,3,1,Machines,Book-wide PBSK only,0.4983591662803064
+transformer,transformer,1,1,Machines,Book-wide PBSK only,0.5012276522894503
+resnet,resnet,5,1,Machines,Book-wide PBSK only,0.4783582318365851
+resnet,resnet,3,1,Machines,Book-wide PBSK only,0.4861169002650486
+resnet,resnet,1,1,Machines,Book-wide PBSK only,0.487557631132392
+diffusion,diffusion,5,1,Machines,Book-wide PBSK only,0.5010818593128902
+diffusion,diffusion,3,1,Machines,Book-wide PBSK only,0.5056311411709818
+diffusion,diffusion,1,1,Machines,Book-wide PBSK only,0.5052957708427895
+rag,rag,5,1,Machines,Book-wide PBSK only,0.5012568306182129
+rag,rag,3,1,Machines,Book-wide PBSK only,0.49611669758560584
+rag,rag,1,1,Machines,Book-wide PBSK only,0.49442943370047926
+crispr_c1,crispr,5,0,Life,Book-wide PBSK only,0.48971710932098395
+crispr_c1,crispr,3,0,Life,Book-wide PBSK only,0.49383669659992296
+crispr_c1,crispr,1,0,Life,Book-wide PBSK only,0.49078274177652126
+crispr_c2,crispr,3,0,Life,Book-wide PBSK only,0.482008214793294
+crispr_c2,crispr,1,0,Life,Book-wide PBSK only,0.5047008895644105
+ips_c1,ips,5,0,Life,Book-wide PBSK only,0.4897549343615352
+ips_c1,ips,3,0,Life,Book-wide PBSK only,0.45807238803280265
+ips_c1,ips,1,0,Life,Book-wide PBSK only,0.46547503696898157
+ips_c2,ips,5,0,Life,Book-wide PBSK only,0.4953609567586966
+ips_c2,ips,3,0,Life,Book-wide PBSK only,0.47846398159664133
+ips_c2,ips,1,0,Life,Book-wide PBSK only,0.4889398001905609
+mrna_c1,mrna,5,0,Life,Book-wide PBSK only,0.49819348762128607
+mrna_c1,mrna,3,0,Life,Book-wide PBSK only,0.49572375069090163
+mrna_c1,mrna,1,0,Life,Book-wide PBSK only,0.49255125653973525
+mrna_c2,mrna,5,0,Life,Book-wide PBSK only,0.4923186839687178
+mrna_c2,mrna,3,0,Life,Book-wide PBSK only,0.4941179210007313
+mrna_c2,mrna,1,0,Life,Book-wide PBSK only,0.508523815236295
+alphafold2_c1,alphafold2,5,0,Life,Book-wide PBSK only,0.4954244562027875
+alphafold2_c1,alphafold2,3,0,Life,Book-wide PBSK only,0.4777974727077909
+alphafold2_c1,alphafold2,1,0,Life,Book-wide PBSK only,0.4947981600691751
+alphafold2_c2,alphafold2,5,0,Life,Book-wide PBSK only,0.4876327584453722
+alphafold2_c2,alphafold2,3,0,Life,Book-wide PBSK only,0.5141785578813838
+alphafold2_c2,alphafold2,1,0,Life,Book-wide PBSK only,0.5215571359820361
+singlecell_c1,singlecell,5,0,Life,Book-wide PBSK only,0.5200012493242251
+singlecell_c1,singlecell,3,0,Life,Book-wide PBSK only,0.5188526604558065
+singlecell_c1,singlecell,1,0,Life,Book-wide PBSK only,0.5028053103080378
+singlecell_c2,singlecell,5,0,Life,Book-wide PBSK only,0.4943210659431715
+singlecell_c2,singlecell,3,0,Life,Book-wide PBSK only,0.4906473177177804
+singlecell_c2,singlecell,1,0,Life,Book-wide PBSK only,0.5069104544583867
+rnai_c1,rnai,5,0,Life,Book-wide PBSK only,0.5369124871645534
+rnai_c1,rnai,3,0,Life,Book-wide PBSK only,0.538087849058141
+rnai_c1,rnai,1,0,Life,Book-wide PBSK only,0.5255988637718095
+graphene_c1,graphene,5,0,Nature,Book-wide PBSK only,0.5313660007026667
+graphene_c1,graphene,3,0,Nature,Book-wide PBSK only,0.518717201238679
+graphene_c1,graphene,1,0,Nature,Book-wide PBSK only,0.5255267361255139
+graphene_c2,graphene,5,0,Nature,Book-wide PBSK only,0.5397391612366826
+graphene_c2,graphene,3,0,Nature,Book-wide PBSK only,0.5263441373000507
+graphene_c2,graphene,1,0,Nature,Book-wide PBSK only,0.5207982584031009
+transformer_c1,transformer,3,0,Machines,Book-wide PBSK only,0.5021909390113671
+transformer_c1,transformer,1,0,Machines,Book-wide PBSK only,0.5027154707283683
+transformer_c2,transformer,5,0,Machines,Book-wide PBSK only,0.4905219874164345
+transformer_c2,transformer,3,0,Machines,Book-wide PBSK only,0.48727128208362064
+transformer_c2,transformer,1,0,Machines,Book-wide PBSK only,0.49201542335972986
+resnet_c1,resnet,5,0,Machines,Book-wide PBSK only,0.4698145958930231
+resnet_c1,resnet,3,0,Machines,Book-wide PBSK only,0.4774651191880415
+resnet_c1,resnet,1,0,Machines,Book-wide PBSK only,0.48983387396608696
+resnet_c2,resnet,5,0,Machines,Book-wide PBSK only,0.463546569048015
+resnet_c2,resnet,3,0,Machines,Book-wide PBSK only,0.47562537238742875
+resnet_c2,resnet,1,0,Machines,Book-wide PBSK only,0.48378675655114617
+diffusion_c1,diffusion,3,0,Machines,Book-wide PBSK only,0.5036759054628155
+diffusion_c1,diffusion,1,0,Machines,Book-wide PBSK only,0.5182514632681106
+diffusion_c2,diffusion,5,0,Machines,Book-wide PBSK only,0.5085437129331747
+diffusion_c2,diffusion,3,0,Machines,Book-wide PBSK only,0.5081339101151426
+diffusion_c2,diffusion,1,0,Machines,Book-wide PBSK only,0.49918161044089376
+rag_c1,rag,5,0,Machines,Book-wide PBSK only,0.5067212197772305
+rag_c1,rag,3,0,Machines,Book-wide PBSK only,0.5024376317884718
+rag_c1,rag,1,0,Machines,Book-wide PBSK only,0.5005171242161947
+rag_c2,rag,5,0,Machines,Book-wide PBSK only,0.5006676341887522
+rag_c2,rag,3,0,Machines,Book-wide PBSK only,0.4991157501041352
+rag_c2,rag,1,0,Machines,Book-wide PBSK only,0.49061996910332695
+qec_c1,qec,5,0,Nature,Book-wide PBSK only,0.493216088474029
+qec_c1,qec,3,0,Nature,Book-wide PBSK only,0.49901814529985505
+qec_c1,qec,1,0,Nature,Book-wide PBSK only,0.5053166201588302
+crispr,crispr,5,1,Life,Core geometry only,0.42362854133149286
+crispr,crispr,3,1,Life,Core geometry only,0.4077146687664523
+crispr,crispr,1,1,Life,Core geometry only,0.4099544922965547
+ips,ips,5,1,Life,Core geometry only,0.5880484946350059
+ips,ips,3,1,Life,Core geometry only,0.5479403471378926
+ips,ips,1,1,Life,Core geometry only,0.4420205149593069
+mrna,mrna,5,1,Life,Core geometry only,0.43834218021276544
+mrna,mrna,3,1,Life,Core geometry only,0.4942309685632237
+mrna,mrna,1,1,Life,Core geometry only,0.4669186956207106
+alphafold2,alphafold2,1,1,Life,Core geometry only,0.433214069262049
+singlecell,singlecell,5,1,Life,Core geometry only,0.5662057252014949
+singlecell,singlecell,3,1,Life,Core geometry only,0.5693377568932364
+singlecell,singlecell,1,1,Life,Core geometry only,0.582896736529752
+rnai,rnai,3,1,Life,Core geometry only,0.4514964154835501
+rnai,rnai,1,1,Life,Core geometry only,0.4859431002307823
+graphene,graphene,3,1,Nature,Core geometry only,0.5976716074447579
+graphene,graphene,1,1,Nature,Core geometry only,0.535639347319355
+transformer,transformer,5,1,Machines,Core geometry only,0.5397985839181751
+transformer,transformer,3,1,Machines,Core geometry only,0.44236020285432504
+transformer,transformer,1,1,Machines,Core geometry only,0.4539066436753634
+resnet,resnet,5,1,Machines,Core geometry only,0.3953784796679877
+resnet,resnet,3,1,Machines,Core geometry only,0.3628896482334773
+resnet,resnet,1,1,Machines,Core geometry only,0.40862366398452454
+diffusion,diffusion,5,1,Machines,Core geometry only,0.5225661836329486
+diffusion,diffusion,3,1,Machines,Core geometry only,0.4681917276840894
+diffusion,diffusion,1,1,Machines,Core geometry only,0.48483227872737183
+rag,rag,5,1,Machines,Core geometry only,0.4566147082357515
+rag,rag,3,1,Machines,Core geometry only,0.3969074869469318
+rag,rag,1,1,Machines,Core geometry only,0.3643940351199774
+crispr_c1,crispr,5,0,Life,Core geometry only,0.5391517015058231
+crispr_c1,crispr,3,0,Life,Core geometry only,0.5277452889921493
+crispr_c1,crispr,1,0,Life,Core geometry only,0.5498545809921291
+crispr_c2,crispr,3,0,Life,Core geometry only,0.5321331694157215
+crispr_c2,crispr,1,0,Life,Core geometry only,0.5078862792952408
+ips_c1,ips,5,0,Life,Core geometry only,0.5743299931090218
+ips_c1,ips,3,0,Life,Core geometry only,0.5053757085426914
+ips_c1,ips,1,0,Life,Core geometry only,0.47950455845845735
+ips_c2,ips,5,0,Life,Core geometry only,0.5349020353626361
+ips_c2,ips,3,0,Life,Core geometry only,0.5239279677518982
+ips_c2,ips,1,0,Life,Core geometry only,0.47765885406256536
+mrna_c1,mrna,5,0,Life,Core geometry only,0.4636388479655735
+mrna_c1,mrna,3,0,Life,Core geometry only,0.5374403922042316
+mrna_c1,mrna,1,0,Life,Core geometry only,0.5370205346190059
+mrna_c2,mrna,5,0,Life,Core geometry only,0.49243134995738846
+mrna_c2,mrna,3,0,Life,Core geometry only,0.5096157145497995
+mrna_c2,mrna,1,0,Life,Core geometry only,0.4945058741804929
+alphafold2_c1,alphafold2,5,0,Life,Core geometry only,0.5663674249667906
+alphafold2_c1,alphafold2,3,0,Life,Core geometry only,0.5492492972017334
+alphafold2_c1,alphafold2,1,0,Life,Core geometry only,0.552412792726729
+alphafold2_c2,alphafold2,5,0,Life,Core geometry only,0.4529436517348768
+alphafold2_c2,alphafold2,3,0,Life,Core geometry only,0.4297215702095563
+alphafold2_c2,alphafold2,1,0,Life,Core geometry only,0.4380506372142242
+singlecell_c1,singlecell,5,0,Life,Core geometry only,0.509244714483521
+singlecell_c1,singlecell,3,0,Life,Core geometry only,0.461279784981497
+singlecell_c1,singlecell,1,0,Life,Core geometry only,0.5305285755220541
+singlecell_c2,singlecell,5,0,Life,Core geometry only,0.5744300551032704
+singlecell_c2,singlecell,3,0,Life,Core geometry only,0.573261923757432
+singlecell_c2,singlecell,1,0,Life,Core geometry only,0.4290634747128907
+rnai_c1,rnai,5,0,Life,Core geometry only,0.43362060419668713
+rnai_c1,rnai,3,0,Life,Core geometry only,0.5339088661025497
+rnai_c1,rnai,1,0,Life,Core geometry only,0.48713671683799853
+graphene_c1,graphene,5,0,Nature,Core geometry only,0.5025017049181727
+graphene_c1,graphene,3,0,Nature,Core geometry only,0.4493685273616493
+graphene_c1,graphene,1,0,Nature,Core geometry only,0.4274026321512224
+graphene_c2,graphene,5,0,Nature,Core geometry only,0.5275391873678549
+graphene_c2,graphene,3,0,Nature,Core geometry only,0.5129514839417557
+graphene_c2,graphene,1,0,Nature,Core geometry only,0.5282715653025526
+transformer_c1,transformer,3,0,Machines,Core geometry only,0.5974462715899607
+transformer_c1,transformer,1,0,Machines,Core geometry only,0.5021258395346353
+transformer_c2,transformer,5,0,Machines,Core geometry only,0.5497663538188967
+transformer_c2,transformer,3,0,Machines,Core geometry only,0.5275104748919205
+transformer_c2,transformer,1,0,Machines,Core geometry only,0.480657954956481
+resnet_c1,resnet,5,0,Machines,Core geometry only,0.5653235367671946
+resnet_c1,resnet,3,0,Machines,Core geometry only,0.4752942902570593
+resnet_c1,resnet,1,0,Machines,Core geometry only,0.48860646543799274
+resnet_c2,resnet,5,0,Machines,Core geometry only,0.5413385061222254
+resnet_c2,resnet,3,0,Machines,Core geometry only,0.4992108398175748
+resnet_c2,resnet,1,0,Machines,Core geometry only,0.49188685655500886
+diffusion_c1,diffusion,3,0,Machines,Core geometry only,0.4062202084580929
+diffusion_c1,diffusion,1,0,Machines,Core geometry only,0.49687178261158793
+diffusion_c2,diffusion,5,0,Machines,Core geometry only,0.47703358999970796
+diffusion_c2,diffusion,3,0,Machines,Core geometry only,0.4725980273036512
+diffusion_c2,diffusion,1,0,Machines,Core geometry only,0.3411031179406521
+rag_c1,rag,5,0,Machines,Core geometry only,0.5450615519908969
+rag_c1,rag,3,0,Machines,Core geometry only,0.5356608339246732
+rag_c1,rag,1,0,Machines,Core geometry only,0.547748463860395
+rag_c2,rag,5,0,Machines,Core geometry only,0.3438665802569524
+rag_c2,rag,3,0,Machines,Core geometry only,0.39392442629460883
+rag_c2,rag,1,0,Machines,Core geometry only,0.39524121020946035
+qec_c1,qec,5,0,Nature,Core geometry only,0.5599995451824825
+qec_c1,qec,3,0,Nature,Core geometry only,0.509130339440995
+qec_c1,qec,1,0,Nature,Core geometry only,0.5061670458924756
+crispr,crispr,5,1,Life,Book stages,0.615151699750394
+crispr,crispr,3,1,Life,Book stages,0.5297540707109099
+crispr,crispr,1,1,Life,Book stages,0.4909704429294406
+ips,ips,5,1,Life,Book stages,0.6427926556921109
+ips,ips,3,1,Life,Book stages,0.7185403636028349
+ips,ips,1,1,Life,Book stages,0.6854718395907998
+mrna,mrna,5,1,Life,Book stages,0.5187746613679397
+mrna,mrna,3,1,Life,Book stages,0.5667805743475826
+mrna,mrna,1,1,Life,Book stages,0.5087289265485564
+alphafold2,alphafold2,1,1,Life,Book stages,0.5570248182810804
+singlecell,singlecell,5,1,Life,Book stages,0.7011509500461289
+singlecell,singlecell,3,1,Life,Book stages,0.5948497775264846
+singlecell,singlecell,1,1,Life,Book stages,0.36091920544162254
+rnai,rnai,3,1,Life,Book stages,0.7878231302818107
+rnai,rnai,1,1,Life,Book stages,0.6456722956274445
+graphene,graphene,3,1,Nature,Book stages,0.7212032517079595
+graphene,graphene,1,1,Nature,Book stages,0.7214049018453063
+transformer,transformer,5,1,Machines,Book stages,0.593172337649653
+transformer,transformer,3,1,Machines,Book stages,0.6009868068290286
+transformer,transformer,1,1,Machines,Book stages,0.4714376462664883
+resnet,resnet,5,1,Machines,Book stages,0.6587352790005371
+resnet,resnet,3,1,Machines,Book stages,0.5887972448721497
+resnet,resnet,1,1,Machines,Book stages,0.544487204803891
+diffusion,diffusion,5,1,Machines,Book stages,0.1258255338239423
+diffusion,diffusion,3,1,Machines,Book stages,0.05064977254593864
+diffusion,diffusion,1,1,Machines,Book stages,0.10224886734165381
+rag,rag,5,1,Machines,Book stages,0.38374805330519524
+rag,rag,3,1,Machines,Book stages,0.16306001828785338
+rag,rag,1,1,Machines,Book stages,0.19959383267058683
+crispr_c1,crispr,5,0,Life,Book stages,0.5853591488029066
+crispr_c1,crispr,3,0,Life,Book stages,0.44376777637877257
+crispr_c1,crispr,1,0,Life,Book stages,0.4714987481316431
+crispr_c2,crispr,3,0,Life,Book stages,0.3883490129132625
+crispr_c2,crispr,1,0,Life,Book stages,0.39864649111671174
+ips_c1,ips,5,0,Life,Book stages,0.5551760877129729
+ips_c1,ips,3,0,Life,Book stages,0.5457404189941989
+ips_c1,ips,1,0,Life,Book stages,0.44456919342820883
+ips_c2,ips,5,0,Life,Book stages,0.39536823675370697
+ips_c2,ips,3,0,Life,Book stages,0.45273990425531097
+ips_c2,ips,1,0,Life,Book stages,0.40172229523383773
+mrna_c1,mrna,5,0,Life,Book stages,0.2821326344665699
+mrna_c1,mrna,3,0,Life,Book stages,0.406180779447791
+mrna_c1,mrna,1,0,Life,Book stages,0.3262807056262144
+mrna_c2,mrna,5,0,Life,Book stages,0.38295608126307035
+mrna_c2,mrna,3,0,Life,Book stages,0.3270795887697556
+mrna_c2,mrna,1,0,Life,Book stages,0.5176868986011294
+alphafold2_c1,alphafold2,5,0,Life,Book stages,0.4169993911246825
+alphafold2_c1,alphafold2,3,0,Life,Book stages,0.536971466030559
+alphafold2_c1,alphafold2,1,0,Life,Book stages,0.292513024976234
+alphafold2_c2,alphafold2,5,0,Life,Book stages,0.6489573910516511
+alphafold2_c2,alphafold2,3,0,Life,Book stages,0.2965512124187269
+alphafold2_c2,alphafold2,1,0,Life,Book stages,0.26269364919444443
+singlecell_c1,singlecell,5,0,Life,Book stages,0.7391725794659015
+singlecell_c1,singlecell,3,0,Life,Book stages,0.7257917878503589
+singlecell_c1,singlecell,1,0,Life,Book stages,0.44775069073920387
+singlecell_c2,singlecell,5,0,Life,Book stages,0.1645973073767618
+singlecell_c2,singlecell,3,0,Life,Book stages,0.19081395429654216
+singlecell_c2,singlecell,1,0,Life,Book stages,0.15588218835734177
+rnai_c1,rnai,5,0,Life,Book stages,0.7002935206983721
+rnai_c1,rnai,3,0,Life,Book stages,0.5705340794074653
+rnai_c1,rnai,1,0,Life,Book stages,0.490439333904262
+graphene_c1,graphene,5,0,Nature,Book stages,0.661096693698306
+graphene_c1,graphene,3,0,Nature,Book stages,0.3221024928289507
+graphene_c1,graphene,1,0,Nature,Book stages,0.29597957469582187
+graphene_c2,graphene,5,0,Nature,Book stages,0.5991647596716484
+graphene_c2,graphene,3,0,Nature,Book stages,0.5174574188969067
+graphene_c2,graphene,1,0,Nature,Book stages,0.43968053844699584
+transformer_c1,transformer,3,0,Machines,Book stages,0.46840027477165785
+transformer_c1,transformer,1,0,Machines,Book stages,0.11709931805389372
+transformer_c2,transformer,5,0,Machines,Book stages,0.5078630866602117
+transformer_c2,transformer,3,0,Machines,Book stages,0.36494997841210713
+transformer_c2,transformer,1,0,Machines,Book stages,0.21665768746686864
+resnet_c1,resnet,5,0,Machines,Book stages,0.7221117869587721
+resnet_c1,resnet,3,0,Machines,Book stages,0.6142340948190766
+resnet_c1,resnet,1,0,Machines,Book stages,0.5239703182653821
+resnet_c2,resnet,5,0,Machines,Book stages,0.7662750199567644
+resnet_c2,resnet,3,0,Machines,Book stages,0.6246430899508899
+resnet_c2,resnet,1,0,Machines,Book stages,0.511774057062986
+diffusion_c1,diffusion,3,0,Machines,Book stages,0.06580093821847953
+diffusion_c1,diffusion,1,0,Machines,Book stages,0.3304948542208152
+diffusion_c2,diffusion,5,0,Machines,Book stages,0.4133352303480631
+diffusion_c2,diffusion,3,0,Machines,Book stages,0.24862307938214273
+diffusion_c2,diffusion,1,0,Machines,Book stages,0.09564162743066362
+rag_c1,rag,5,0,Machines,Book stages,0.6132458920546451
+rag_c1,rag,3,0,Machines,Book stages,0.41016201318782997
+rag_c1,rag,1,0,Machines,Book stages,0.4623756062224068
+rag_c2,rag,5,0,Machines,Book stages,0.30593762088597726
+rag_c2,rag,3,0,Machines,Book stages,0.20468079810842443
+rag_c2,rag,1,0,Machines,Book stages,0.0591028063752644
+qec_c1,qec,5,0,Nature,Book stages,0.7347121632556085
+qec_c1,qec,3,0,Nature,Book stages,0.6917641215349356
+qec_c1,qec,1,0,Nature,Book stages,0.6652910878109437
+crispr,crispr,5,1,Life,Baseline + legacy PBS,0.06755596315879536
+crispr,crispr,3,1,Life,Baseline + legacy PBS,0.09592200148985085
+crispr,crispr,1,1,Life,Baseline + legacy PBS,0.13545157894813045
+ips,ips,5,1,Life,Baseline + legacy PBS,0.6455412227232913
+ips,ips,3,1,Life,Baseline + legacy PBS,0.3907565539667221
+ips,ips,1,1,Life,Baseline + legacy PBS,0.34749851065269116
+mrna,mrna,5,1,Life,Baseline + legacy PBS,0.3586448556371343
+mrna,mrna,3,1,Life,Baseline + legacy PBS,0.4071019191496481
+mrna,mrna,1,1,Life,Baseline + legacy PBS,0.3766909158075914
+alphafold2,alphafold2,1,1,Life,Baseline + legacy PBS,0.04720868216440488
+singlecell,singlecell,5,1,Life,Baseline + legacy PBS,0.8128605332128167
+singlecell,singlecell,3,1,Life,Baseline + legacy PBS,0.7835335360221639
+singlecell,singlecell,1,1,Life,Baseline + legacy PBS,0.6400465431256331
+rnai,rnai,3,1,Life,Baseline + legacy PBS,0.8772000402476536
+rnai,rnai,1,1,Life,Baseline + legacy PBS,0.8389671767107207
+graphene,graphene,3,1,Nature,Baseline + legacy PBS,0.7954250873887772
+graphene,graphene,1,1,Nature,Baseline + legacy PBS,0.7910600361632097
+transformer,transformer,5,1,Machines,Baseline + legacy PBS,0.5186522367021928
+transformer,transformer,3,1,Machines,Baseline + legacy PBS,0.528415174238037
+transformer,transformer,1,1,Machines,Baseline + legacy PBS,0.5106842843558802
+resnet,resnet,5,1,Machines,Baseline + legacy PBS,0.3999046221635202
+resnet,resnet,3,1,Machines,Baseline + legacy PBS,0.4769445735213466
+resnet,resnet,1,1,Machines,Baseline + legacy PBS,0.6258078912383904
+diffusion,diffusion,5,1,Machines,Baseline + legacy PBS,0.002947525158680622
+diffusion,diffusion,3,1,Machines,Baseline + legacy PBS,0.0028449493251091365
+diffusion,diffusion,1,1,Machines,Baseline + legacy PBS,0.048896592347058974
+rag,rag,5,1,Machines,Baseline + legacy PBS,0.29846378712329696
+rag,rag,3,1,Machines,Baseline + legacy PBS,0.21308283365235267
+rag,rag,1,1,Machines,Baseline + legacy PBS,0.33505826203347444
+crispr_c1,crispr,5,0,Life,Baseline + legacy PBS,0.3703422403424203
+crispr_c1,crispr,3,0,Life,Baseline + legacy PBS,0.6919814873583955
+crispr_c1,crispr,1,0,Life,Baseline + legacy PBS,0.6304112479460011
+crispr_c2,crispr,3,0,Life,Baseline + legacy PBS,0.4279250400799296
+crispr_c2,crispr,1,0,Life,Baseline + legacy PBS,0.5020818716957169
+ips_c1,ips,5,0,Life,Baseline + legacy PBS,0.6553175735457712
+ips_c1,ips,3,0,Life,Baseline + legacy PBS,0.47325002967133317
+ips_c1,ips,1,0,Life,Baseline + legacy PBS,0.30637303790487885
+ips_c2,ips,5,0,Life,Baseline + legacy PBS,0.06646300794143985
+ips_c2,ips,3,0,Life,Baseline + legacy PBS,0.051191170071774
+ips_c2,ips,1,0,Life,Baseline + legacy PBS,0.03138266745366129
+mrna_c1,mrna,5,0,Life,Baseline + legacy PBS,0.5257149434968541
+mrna_c1,mrna,3,0,Life,Baseline + legacy PBS,0.462997615349166
+mrna_c1,mrna,1,0,Life,Baseline + legacy PBS,0.49029024591158676
+mrna_c2,mrna,5,0,Life,Baseline + legacy PBS,0.5835354031731865
+mrna_c2,mrna,3,0,Life,Baseline + legacy PBS,0.35901466119695197
+mrna_c2,mrna,1,0,Life,Baseline + legacy PBS,0.31175046789203603
+alphafold2_c1,alphafold2,5,0,Life,Baseline + legacy PBS,0.6269419384559433
+alphafold2_c1,alphafold2,3,0,Life,Baseline + legacy PBS,0.8444505246195515
+alphafold2_c1,alphafold2,1,0,Life,Baseline + legacy PBS,0.5994212940204967
+alphafold2_c2,alphafold2,5,0,Life,Baseline + legacy PBS,0.8229937136585411
+alphafold2_c2,alphafold2,3,0,Life,Baseline + legacy PBS,0.45778468041979953
+alphafold2_c2,alphafold2,1,0,Life,Baseline + legacy PBS,0.632971971960213
+singlecell_c1,singlecell,5,0,Life,Baseline + legacy PBS,0.6329681238080125
+singlecell_c1,singlecell,3,0,Life,Baseline + legacy PBS,0.8297991049485856
+singlecell_c1,singlecell,1,0,Life,Baseline + legacy PBS,0.7964494375293173
+singlecell_c2,singlecell,5,0,Life,Baseline + legacy PBS,0.3745669702201147
+singlecell_c2,singlecell,3,0,Life,Baseline + legacy PBS,0.44806492758916555
+singlecell_c2,singlecell,1,0,Life,Baseline + legacy PBS,0.3177738435361855
+rnai_c1,rnai,5,0,Life,Baseline + legacy PBS,0.6967405755785835
+rnai_c1,rnai,3,0,Life,Baseline + legacy PBS,0.7103649355898868
+rnai_c1,rnai,1,0,Life,Baseline + legacy PBS,0.5897062488790452
+graphene_c1,graphene,5,0,Nature,Baseline + legacy PBS,0.2626918098920989
+graphene_c1,graphene,3,0,Nature,Baseline + legacy PBS,0.14604170258158486
+graphene_c1,graphene,1,0,Nature,Baseline + legacy PBS,0.14043808988089673
+graphene_c2,graphene,5,0,Nature,Baseline + legacy PBS,0.23991555959759636
+graphene_c2,graphene,3,0,Nature,Baseline + legacy PBS,0.29951132862699636
+graphene_c2,graphene,1,0,Nature,Baseline + legacy PBS,0.36928938064515343
+transformer_c1,transformer,3,0,Machines,Baseline + legacy PBS,0.6947056487361147
+transformer_c1,transformer,1,0,Machines,Baseline + legacy PBS,0.059673555818374635
+transformer_c2,transformer,5,0,Machines,Baseline + legacy PBS,0.49337686147094756
+transformer_c2,transformer,3,0,Machines,Baseline + legacy PBS,0.42707067479583594
+transformer_c2,transformer,1,0,Machines,Baseline + legacy PBS,0.23330038297424635
+resnet_c1,resnet,5,0,Machines,Baseline + legacy PBS,0.5779833563310907
+resnet_c1,resnet,3,0,Machines,Baseline + legacy PBS,0.4510055359421422
+resnet_c1,resnet,1,0,Machines,Baseline + legacy PBS,0.6112013587784326
+resnet_c2,resnet,5,0,Machines,Baseline + legacy PBS,0.6390529095870049
+resnet_c2,resnet,3,0,Machines,Baseline + legacy PBS,0.625426247751878
+resnet_c2,resnet,1,0,Machines,Baseline + legacy PBS,0.6649121667816694
+diffusion_c1,diffusion,3,0,Machines,Baseline + legacy PBS,0.007224149030223857
+diffusion_c1,diffusion,1,0,Machines,Baseline + legacy PBS,0.47500677748092246
+diffusion_c2,diffusion,5,0,Machines,Baseline + legacy PBS,0.03575028945281618
+diffusion_c2,diffusion,3,0,Machines,Baseline + legacy PBS,0.02687282658338015
+diffusion_c2,diffusion,1,0,Machines,Baseline + legacy PBS,0.04383625927130632
+rag_c1,rag,5,0,Machines,Baseline + legacy PBS,0.7005387199389256
+rag_c1,rag,3,0,Machines,Baseline + legacy PBS,0.6279740365183937
+rag_c1,rag,1,0,Machines,Baseline + legacy PBS,0.7926761892060663
+rag_c2,rag,5,0,Machines,Baseline + legacy PBS,0.0557615510685929
+rag_c2,rag,3,0,Machines,Baseline + legacy PBS,0.19851913703946963
+rag_c2,rag,1,0,Machines,Baseline + legacy PBS,0.26667254280046276
+qec_c1,qec,5,0,Nature,Baseline + legacy PBS,0.468464263414354
+qec_c1,qec,3,0,Nature,Baseline + legacy PBS,0.5635845784500167
+qec_c1,qec,1,0,Nature,Baseline + legacy PBS,0.6080993366334483
+crispr,crispr,5,1,Life,Baseline + book-wide PBSK,0.47017206880838774
+crispr,crispr,3,1,Life,Baseline + book-wide PBSK,0.5443634046540471
+crispr,crispr,1,1,Life,Baseline + book-wide PBSK,0.6325626637579359
+ips,ips,5,1,Life,Baseline + book-wide PBSK,0.3821835207856363
+ips,ips,3,1,Life,Baseline + book-wide PBSK,0.2486913222257934
+ips,ips,1,1,Life,Baseline + book-wide PBSK,0.2889386893936011
+mrna,mrna,5,1,Life,Baseline + book-wide PBSK,0.45874903119592975
+mrna,mrna,3,1,Life,Baseline + book-wide PBSK,0.4654966051448273
+mrna,mrna,1,1,Life,Baseline + book-wide PBSK,0.49546640633786815
+alphafold2,alphafold2,1,1,Life,Baseline + book-wide PBSK,0.05064884291610151
+singlecell,singlecell,5,1,Life,Baseline + book-wide PBSK,0.5896224098393035
+singlecell,singlecell,3,1,Life,Baseline + book-wide PBSK,0.601390676017388
+singlecell,singlecell,1,1,Life,Baseline + book-wide PBSK,0.4219984730030233
+rnai,rnai,3,1,Life,Baseline + book-wide PBSK,0.7392310599052311
+rnai,rnai,1,1,Life,Baseline + book-wide PBSK,0.7204062350483499
+graphene,graphene,3,1,Nature,Baseline + book-wide PBSK,0.8199760042068499
+graphene,graphene,1,1,Nature,Baseline + book-wide PBSK,0.8590871091225429
+transformer,transformer,5,1,Machines,Baseline + book-wide PBSK,0.547642900818983
+transformer,transformer,3,1,Machines,Baseline + book-wide PBSK,0.5619344176833925
+transformer,transformer,1,1,Machines,Baseline + book-wide PBSK,0.5546734513945344
+resnet,resnet,5,1,Machines,Baseline + book-wide PBSK,0.5971308300377682
+resnet,resnet,3,1,Machines,Baseline + book-wide PBSK,0.6725369976303461
+resnet,resnet,1,1,Machines,Baseline + book-wide PBSK,0.6356516914762649
+diffusion,diffusion,5,1,Machines,Baseline + book-wide PBSK,0.017612492796364246
+diffusion,diffusion,3,1,Machines,Baseline + book-wide PBSK,0.09129677438372227
+diffusion,diffusion,1,1,Machines,Baseline + book-wide PBSK,0.32689059930491227
+rag,rag,5,1,Machines,Baseline + book-wide PBSK,0.5862538094913725
+rag,rag,3,1,Machines,Baseline + book-wide PBSK,0.586284438543747
+rag,rag,1,1,Machines,Baseline + book-wide PBSK,0.5278772774849534
+crispr_c1,crispr,5,0,Life,Baseline + book-wide PBSK,0.39674724707015097
+crispr_c1,crispr,3,0,Life,Baseline + book-wide PBSK,0.43099611389120734
+crispr_c1,crispr,1,0,Life,Baseline + book-wide PBSK,0.32540977502059565
+crispr_c2,crispr,3,0,Life,Baseline + book-wide PBSK,0.39384205155838575
+crispr_c2,crispr,1,0,Life,Baseline + book-wide PBSK,0.5035345983172297
+ips_c1,ips,5,0,Life,Baseline + book-wide PBSK,0.4316418830078507
+ips_c1,ips,3,0,Life,Baseline + book-wide PBSK,0.1785058913104214
+ips_c1,ips,1,0,Life,Baseline + book-wide PBSK,0.1386344773083241
+ips_c2,ips,5,0,Life,Baseline + book-wide PBSK,0.10199269290230885
+ips_c2,ips,3,0,Life,Baseline + book-wide PBSK,0.08189575871935263
+ips_c2,ips,1,0,Life,Baseline + book-wide PBSK,0.0698963898540255
+mrna_c1,mrna,5,0,Life,Baseline + book-wide PBSK,0.4313274427705588
+mrna_c1,mrna,3,0,Life,Baseline + book-wide PBSK,0.42679390066230544
+mrna_c1,mrna,1,0,Life,Baseline + book-wide PBSK,0.4074973930750186
+mrna_c2,mrna,5,0,Life,Baseline + book-wide PBSK,0.3649697746752418
+mrna_c2,mrna,3,0,Life,Baseline + book-wide PBSK,0.4029510497920062
+mrna_c2,mrna,1,0,Life,Baseline + book-wide PBSK,0.44922859212696253
+alphafold2_c1,alphafold2,5,0,Life,Baseline + book-wide PBSK,0.5638707323728486
+alphafold2_c1,alphafold2,3,0,Life,Baseline + book-wide PBSK,0.5933171238580138
+alphafold2_c1,alphafold2,1,0,Life,Baseline + book-wide PBSK,0.6985630265606375
+alphafold2_c2,alphafold2,5,0,Life,Baseline + book-wide PBSK,0.5520898593659971
+alphafold2_c2,alphafold2,3,0,Life,Baseline + book-wide PBSK,0.6407463548308229
+alphafold2_c2,alphafold2,1,0,Life,Baseline + book-wide PBSK,0.6341890143003384
+singlecell_c1,singlecell,5,0,Life,Baseline + book-wide PBSK,0.6187908185428281
+singlecell_c1,singlecell,3,0,Life,Baseline + book-wide PBSK,0.7611920480699704
+singlecell_c1,singlecell,1,0,Life,Baseline + book-wide PBSK,0.7352422903023538
+singlecell_c2,singlecell,5,0,Life,Baseline + book-wide PBSK,0.4228293963800953
+singlecell_c2,singlecell,3,0,Life,Baseline + book-wide PBSK,0.3120825366334807
+singlecell_c2,singlecell,1,0,Life,Baseline + book-wide PBSK,0.1927497702223822
+rnai_c1,rnai,5,0,Life,Baseline + book-wide PBSK,0.5665443664485516
+rnai_c1,rnai,3,0,Life,Baseline + book-wide PBSK,0.5696714078761305
+rnai_c1,rnai,1,0,Life,Baseline + book-wide PBSK,0.4847330799793226
+graphene_c1,graphene,5,0,Nature,Baseline + book-wide PBSK,0.23001461861361822
+graphene_c1,graphene,3,0,Nature,Baseline + book-wide PBSK,0.1863422671320211
+graphene_c1,graphene,1,0,Nature,Baseline + book-wide PBSK,0.14051462614649976
+graphene_c2,graphene,5,0,Nature,Baseline + book-wide PBSK,0.25281261104479796
+graphene_c2,graphene,3,0,Nature,Baseline + book-wide PBSK,0.3375147755966831
+graphene_c2,graphene,1,0,Nature,Baseline + book-wide PBSK,0.4322520001452675
+transformer_c1,transformer,3,0,Machines,Baseline + book-wide PBSK,0.5220174316369715
+transformer_c1,transformer,1,0,Machines,Baseline + book-wide PBSK,0.04591140932913716
+transformer_c2,transformer,5,0,Machines,Baseline + book-wide PBSK,0.5884375253444972
+transformer_c2,transformer,3,0,Machines,Baseline + book-wide PBSK,0.6210176441797814
+transformer_c2,transformer,1,0,Machines,Baseline + book-wide PBSK,0.34592567191373597
+resnet_c1,resnet,5,0,Machines,Baseline + book-wide PBSK,0.6832620762749838
+resnet_c1,resnet,3,0,Machines,Baseline + book-wide PBSK,0.7242797621073486
+resnet_c1,resnet,1,0,Machines,Baseline + book-wide PBSK,0.6534215314349834
+resnet_c2,resnet,5,0,Machines,Baseline + book-wide PBSK,0.7992571008999547
+resnet_c2,resnet,3,0,Machines,Baseline + book-wide PBSK,0.8091128182417627
+resnet_c2,resnet,1,0,Machines,Baseline + book-wide PBSK,0.8027922639278559
+diffusion_c1,diffusion,3,0,Machines,Baseline + book-wide PBSK,0.1886357380767792
+diffusion_c1,diffusion,1,0,Machines,Baseline + book-wide PBSK,0.6283026371860079
+diffusion_c2,diffusion,5,0,Machines,Baseline + book-wide PBSK,0.33225341882520276
+diffusion_c2,diffusion,3,0,Machines,Baseline + book-wide PBSK,0.33292360326372755
+diffusion_c2,diffusion,1,0,Machines,Baseline + book-wide PBSK,0.2524240644808867
+rag_c1,rag,5,0,Machines,Baseline + book-wide PBSK,0.8080223925779564
+rag_c1,rag,3,0,Machines,Baseline + book-wide PBSK,0.8117626327488714
+rag_c1,rag,1,0,Machines,Baseline + book-wide PBSK,0.8436634805743173
+rag_c2,rag,5,0,Machines,Baseline + book-wide PBSK,0.4182422950404243
+rag_c2,rag,3,0,Machines,Baseline + book-wide PBSK,0.5512642171293571
+rag_c2,rag,1,0,Machines,Baseline + book-wide PBSK,0.37390957240864686
+qec_c1,qec,5,0,Nature,Baseline + book-wide PBSK,0.40019243959674344
+qec_c1,qec,3,0,Nature,Baseline + book-wide PBSK,0.5613120305237645
+qec_c1,qec,1,0,Nature,Baseline + book-wide PBSK,0.5847109055416665
+crispr,crispr,5,1,Life,Baseline + core geometry,0.49647526778175055
+crispr,crispr,3,1,Life,Baseline + core geometry,0.5443896673292457
+crispr,crispr,1,1,Life,Baseline + core geometry,0.6116720603906671
+ips,ips,5,1,Life,Baseline + core geometry,0.41667767668250094
+ips,ips,3,1,Life,Baseline + core geometry,0.25981225567357297
+ips,ips,1,1,Life,Baseline + core geometry,0.27683179645990313
+mrna,mrna,5,1,Life,Baseline + core geometry,0.2862619472877039
+mrna,mrna,3,1,Life,Baseline + core geometry,0.3708996895685548
+mrna,mrna,1,1,Life,Baseline + core geometry,0.3172187554632459
+alphafold2,alphafold2,1,1,Life,Baseline + core geometry,0.04569830258749961
+singlecell,singlecell,5,1,Life,Baseline + core geometry,0.6179594477868514
+singlecell,singlecell,3,1,Life,Baseline + core geometry,0.6174409754999928
+singlecell,singlecell,1,1,Life,Baseline + core geometry,0.4870437083203434
+rnai,rnai,3,1,Life,Baseline + core geometry,0.7080018430902582
+rnai,rnai,1,1,Life,Baseline + core geometry,0.7054220704237579
+graphene,graphene,3,1,Nature,Baseline + core geometry,0.8220374530357034
+graphene,graphene,1,1,Nature,Baseline + core geometry,0.8517767850539302
+transformer,transformer,5,1,Machines,Baseline + core geometry,0.519508885683249
+transformer,transformer,3,1,Machines,Baseline + core geometry,0.5360492467627302
+transformer,transformer,1,1,Machines,Baseline + core geometry,0.5491297275285922
+resnet,resnet,5,1,Machines,Baseline + core geometry,0.3975671998102884
+resnet,resnet,3,1,Machines,Baseline + core geometry,0.46893533192559683
+resnet,resnet,1,1,Machines,Baseline + core geometry,0.5085593404007275
+diffusion,diffusion,5,1,Machines,Baseline + core geometry,0.019340464519092774
+diffusion,diffusion,3,1,Machines,Baseline + core geometry,0.07056512528263323
+diffusion,diffusion,1,1,Machines,Baseline + core geometry,0.29596099134316195
+rag,rag,5,1,Machines,Baseline + core geometry,0.526471481066658
+rag,rag,3,1,Machines,Baseline + core geometry,0.5627386671246576
+rag,rag,1,1,Machines,Baseline + core geometry,0.5324607750341885
+crispr_c1,crispr,5,0,Life,Baseline + core geometry,0.5509738648025556
+crispr_c1,crispr,3,0,Life,Baseline + core geometry,0.5223934959051095
+crispr_c1,crispr,1,0,Life,Baseline + core geometry,0.3761444416906004
+crispr_c2,crispr,3,0,Life,Baseline + core geometry,0.5271538392342263
+crispr_c2,crispr,1,0,Life,Baseline + core geometry,0.4560101621732397
+ips_c1,ips,5,0,Life,Baseline + core geometry,0.4484953418154621
+ips_c1,ips,3,0,Life,Baseline + core geometry,0.1737558353131494
+ips_c1,ips,1,0,Life,Baseline + core geometry,0.140329548225937
+ips_c2,ips,5,0,Life,Baseline + core geometry,0.11018889155952893
+ips_c2,ips,3,0,Life,Baseline + core geometry,0.08787526918953151
+ips_c2,ips,1,0,Life,Baseline + core geometry,0.0759579916293398
+mrna_c1,mrna,5,0,Life,Baseline + core geometry,0.393480294170455
+mrna_c1,mrna,3,0,Life,Baseline + core geometry,0.4682781384716375
+mrna_c1,mrna,1,0,Life,Baseline + core geometry,0.44019374427549457
+mrna_c2,mrna,5,0,Life,Baseline + core geometry,0.3894261142148103
+mrna_c2,mrna,3,0,Life,Baseline + core geometry,0.4074022016710147
+mrna_c2,mrna,1,0,Life,Baseline + core geometry,0.3529577565480412
+alphafold2_c1,alphafold2,5,0,Life,Baseline + core geometry,0.5894725383408236
+alphafold2_c1,alphafold2,3,0,Life,Baseline + core geometry,0.6077461327008383
+alphafold2_c1,alphafold2,1,0,Life,Baseline + core geometry,0.7208830473550712
+alphafold2_c2,alphafold2,5,0,Life,Baseline + core geometry,0.5267555259964193
+alphafold2_c2,alphafold2,3,0,Life,Baseline + core geometry,0.6209664236712198
+alphafold2_c2,alphafold2,1,0,Life,Baseline + core geometry,0.6277126622463246
+singlecell_c1,singlecell,5,0,Life,Baseline + core geometry,0.6681128520918115
+singlecell_c1,singlecell,3,0,Life,Baseline + core geometry,0.7619660028068401
+singlecell_c1,singlecell,1,0,Life,Baseline + core geometry,0.7499750223903199
+singlecell_c2,singlecell,5,0,Life,Baseline + core geometry,0.4695642352017598
+singlecell_c2,singlecell,3,0,Life,Baseline + core geometry,0.37319866250758693
+singlecell_c2,singlecell,1,0,Life,Baseline + core geometry,0.2548533888553002
+rnai_c1,rnai,5,0,Life,Baseline + core geometry,0.5394751947732456
+rnai_c1,rnai,3,0,Life,Baseline + core geometry,0.5887087459125199
+rnai_c1,rnai,1,0,Life,Baseline + core geometry,0.4885005652469883
+graphene_c1,graphene,5,0,Nature,Baseline + core geometry,0.33993782269126865
+graphene_c1,graphene,3,0,Nature,Baseline + core geometry,0.2749081131010707
+graphene_c1,graphene,1,0,Nature,Baseline + core geometry,0.24729387874547
+graphene_c2,graphene,5,0,Nature,Baseline + core geometry,0.4203867871518274
+graphene_c2,graphene,3,0,Nature,Baseline + core geometry,0.4796719312327618
+graphene_c2,graphene,1,0,Nature,Baseline + core geometry,0.5811125016386334
+transformer_c1,transformer,3,0,Machines,Baseline + core geometry,0.5827594687319917
+transformer_c1,transformer,1,0,Machines,Baseline + core geometry,0.08166856993263849
+transformer_c2,transformer,5,0,Machines,Baseline + core geometry,0.5515358335762912
+transformer_c2,transformer,3,0,Machines,Baseline + core geometry,0.5788722742755575
+transformer_c2,transformer,1,0,Machines,Baseline + core geometry,0.3643534127578676
+resnet_c1,resnet,5,0,Machines,Baseline + core geometry,0.5910830436736381
+resnet_c1,resnet,3,0,Machines,Baseline + core geometry,0.5916672047769118
+resnet_c1,resnet,1,0,Machines,Baseline + core geometry,0.5956365388603384
+resnet_c2,resnet,5,0,Machines,Baseline + core geometry,0.6673996765130286
+resnet_c2,resnet,3,0,Machines,Baseline + core geometry,0.69092987397261
+resnet_c2,resnet,1,0,Machines,Baseline + core geometry,0.7209711171090007
+diffusion_c1,diffusion,3,0,Machines,Baseline + core geometry,0.14791380669360643
+diffusion_c1,diffusion,1,0,Machines,Baseline + core geometry,0.5149994245788441
+diffusion_c2,diffusion,5,0,Machines,Baseline + core geometry,0.21891364011298717
+diffusion_c2,diffusion,3,0,Machines,Baseline + core geometry,0.24535433129958167
+diffusion_c2,diffusion,1,0,Machines,Baseline + core geometry,0.25488511296830463
+rag_c1,rag,5,0,Machines,Baseline + core geometry,0.7620743810658265
+rag_c1,rag,3,0,Machines,Baseline + core geometry,0.7986497821466347
+rag_c1,rag,1,0,Machines,Baseline + core geometry,0.8504976689401185
+rag_c2,rag,5,0,Machines,Baseline + core geometry,0.2780435864029148
+rag_c2,rag,3,0,Machines,Baseline + core geometry,0.509841556470281
+rag_c2,rag,1,0,Machines,Baseline + core geometry,0.5130315933386943
+qec_c1,qec,5,0,Nature,Baseline + core geometry,0.4285259463447929
+qec_c1,qec,3,0,Nature,Baseline + core geometry,0.5623581516135303
+qec_c1,qec,1,0,Nature,Baseline + core geometry,0.6137495033771344
+crispr,crispr,5,1,Life,Full theory logistic,0.12194491025931044
+crispr,crispr,3,1,Life,Full theory logistic,0.12328329781031755
+crispr,crispr,1,1,Life,Full theory logistic,0.146630948584716
+ips,ips,5,1,Life,Full theory logistic,0.5140475415906322
+ips,ips,3,1,Life,Full theory logistic,0.9208418348428546
+ips,ips,1,1,Life,Full theory logistic,0.8628814611182752
+mrna,mrna,5,1,Life,Full theory logistic,0.06770996900798158
+mrna,mrna,3,1,Life,Full theory logistic,0.19560621158539052
+mrna,mrna,1,1,Life,Full theory logistic,0.10178752781191937
+alphafold2,alphafold2,1,1,Life,Full theory logistic,0.9248224742890628
+singlecell,singlecell,5,1,Life,Full theory logistic,0.9306501767987563
+singlecell,singlecell,3,1,Life,Full theory logistic,0.8948745381376988
+singlecell,singlecell,1,1,Life,Full theory logistic,0.6341636966739485
+rnai,rnai,3,1,Life,Full theory logistic,0.7556050034813391
+rnai,rnai,1,1,Life,Full theory logistic,0.5167719692304178
+graphene,graphene,3,1,Nature,Full theory logistic,0.3881357071797435
+graphene,graphene,1,1,Nature,Full theory logistic,0.4417359455863691
+transformer,transformer,5,1,Machines,Full theory logistic,0.342376709024629
+transformer,transformer,3,1,Machines,Full theory logistic,0.522354760301913
+transformer,transformer,1,1,Machines,Full theory logistic,0.39682869154698336
+resnet,resnet,5,1,Machines,Full theory logistic,0.25180093995068786
+resnet,resnet,3,1,Machines,Full theory logistic,0.28150608073960376
+resnet,resnet,1,1,Machines,Full theory logistic,0.31147952600415524
+diffusion,diffusion,5,1,Machines,Full theory logistic,0.004696140589343949
+diffusion,diffusion,3,1,Machines,Full theory logistic,0.0031092558153702223
+diffusion,diffusion,1,1,Machines,Full theory logistic,0.02245174954164157
+rag,rag,5,1,Machines,Full theory logistic,0.33735058562009673
+rag,rag,3,1,Machines,Full theory logistic,0.23885048624341015
+rag,rag,1,1,Machines,Full theory logistic,0.27087712652044493
+crispr_c1,crispr,5,0,Life,Full theory logistic,0.2500741263293053
+crispr_c1,crispr,3,0,Life,Full theory logistic,0.3717347057767804
+crispr_c1,crispr,1,0,Life,Full theory logistic,0.50622630555271
+crispr_c2,crispr,3,0,Life,Full theory logistic,0.09614116819003508
+crispr_c2,crispr,1,0,Life,Full theory logistic,0.17636348629574822
+ips_c1,ips,5,0,Life,Full theory logistic,0.12397253204287091
+ips_c1,ips,3,0,Life,Full theory logistic,0.4588494124920624
+ips_c1,ips,1,0,Life,Full theory logistic,0.43282471045633003
+ips_c2,ips,5,0,Life,Full theory logistic,0.13305794755423406
+ips_c2,ips,3,0,Life,Full theory logistic,0.3713958021307777
+ips_c2,ips,1,0,Life,Full theory logistic,0.19139525995596773
+mrna_c1,mrna,5,0,Life,Full theory logistic,0.1922415266371665
+mrna_c1,mrna,3,0,Life,Full theory logistic,0.4054776616711535
+mrna_c1,mrna,1,0,Life,Full theory logistic,0.3956135769174341
+mrna_c2,mrna,5,0,Life,Full theory logistic,0.2850675046835214
+mrna_c2,mrna,3,0,Life,Full theory logistic,0.15548040000651708
+mrna_c2,mrna,1,0,Life,Full theory logistic,0.13628002844571022
+alphafold2_c1,alphafold2,5,0,Life,Full theory logistic,0.35035693799844236
+alphafold2_c1,alphafold2,3,0,Life,Full theory logistic,0.6950251340901025
+alphafold2_c1,alphafold2,1,0,Life,Full theory logistic,0.29294611077869187
+alphafold2_c2,alphafold2,5,0,Life,Full theory logistic,0.32395375921183917
+alphafold2_c2,alphafold2,3,0,Life,Full theory logistic,0.07354866656935474
+alphafold2_c2,alphafold2,1,0,Life,Full theory logistic,0.17196439433925284
+singlecell_c1,singlecell,5,0,Life,Full theory logistic,0.8887060333417489
+singlecell_c1,singlecell,3,0,Life,Full theory logistic,0.9920329842630256
+singlecell_c1,singlecell,1,0,Life,Full theory logistic,0.8613496034221951
+singlecell_c2,singlecell,5,0,Life,Full theory logistic,0.024237272842998855
+singlecell_c2,singlecell,3,0,Life,Full theory logistic,0.07619788509258557
+singlecell_c2,singlecell,1,0,Life,Full theory logistic,0.057217059948665626
+rnai_c1,rnai,5,0,Life,Full theory logistic,0.4137878834112677
+rnai_c1,rnai,3,0,Life,Full theory logistic,0.45520391371369767
+rnai_c1,rnai,1,0,Life,Full theory logistic,0.21134089139944598
+graphene_c1,graphene,5,0,Nature,Full theory logistic,0.02464514818254241
+graphene_c1,graphene,3,0,Nature,Full theory logistic,0.005007021121147329
+graphene_c1,graphene,1,0,Nature,Full theory logistic,0.0025671178605086117
+graphene_c2,graphene,5,0,Nature,Full theory logistic,0.016619737233692974
+graphene_c2,graphene,3,0,Nature,Full theory logistic,0.01928863437865535
+graphene_c2,graphene,1,0,Nature,Full theory logistic,0.030099062210842707
+transformer_c1,transformer,3,0,Machines,Full theory logistic,0.7570536249480777
+transformer_c1,transformer,1,0,Machines,Full theory logistic,0.009390353159117086
+transformer_c2,transformer,5,0,Machines,Full theory logistic,0.09949521814650276
+transformer_c2,transformer,3,0,Machines,Full theory logistic,0.05239630468119846
+transformer_c2,transformer,1,0,Machines,Full theory logistic,0.025625895449874415
+resnet_c1,resnet,5,0,Machines,Full theory logistic,0.9226122979267436
+resnet_c1,resnet,3,0,Machines,Full theory logistic,0.666706420896298
+resnet_c1,resnet,1,0,Machines,Full theory logistic,0.5512627354345
+resnet_c2,resnet,5,0,Machines,Full theory logistic,0.7327761136152288
+resnet_c2,resnet,3,0,Machines,Full theory logistic,0.62318076672989
+resnet_c2,resnet,1,0,Machines,Full theory logistic,0.4485195762404341
+diffusion_c1,diffusion,3,0,Machines,Full theory logistic,0.002084745956396555
+diffusion_c1,diffusion,1,0,Machines,Full theory logistic,0.06126113626713748
+diffusion_c2,diffusion,5,0,Machines,Full theory logistic,0.018623344965403382
+diffusion_c2,diffusion,3,0,Machines,Full theory logistic,0.004893899946454748
+diffusion_c2,diffusion,1,0,Machines,Full theory logistic,0.0033903084245207487
+rag_c1,rag,5,0,Machines,Full theory logistic,0.8567753027554194
+rag_c1,rag,3,0,Machines,Full theory logistic,0.6476493205337736
+rag_c1,rag,1,0,Machines,Full theory logistic,0.8737040265475122
+rag_c2,rag,5,0,Machines,Full theory logistic,0.031608981406409796
+rag_c2,rag,3,0,Machines,Full theory logistic,0.07878329500969974
+rag_c2,rag,1,0,Machines,Full theory logistic,0.10429676337412612
+qec_c1,qec,5,0,Nature,Full theory logistic,0.6124822320538745
+qec_c1,qec,3,0,Nature,Full theory logistic,0.7212078613823957
+qec_c1,qec,1,0,Nature,Full theory logistic,0.674927900456309
+crispr,crispr,5,1,Life,Random forest full,0.3457887033601319
+crispr,crispr,3,1,Life,Random forest full,0.32952463409606264
+crispr,crispr,1,1,Life,Random forest full,0.2700960626674913
+ips,ips,5,1,Life,Random forest full,0.6235636744208172
+ips,ips,3,1,Life,Random forest full,0.5759392670821242
+ips,ips,1,1,Life,Random forest full,0.45891249226963526
+mrna,mrna,5,1,Life,Random forest full,0.12629454672311813
+mrna,mrna,3,1,Life,Random forest full,0.09581155352583923
+mrna,mrna,1,1,Life,Random forest full,0.08876682048110618
+alphafold2,alphafold2,1,1,Life,Random forest full,0.2843415790558649
+singlecell,singlecell,5,1,Life,Random forest full,0.8794611420325708
+singlecell,singlecell,3,1,Life,Random forest full,0.8724601113172543
+singlecell,singlecell,1,1,Life,Random forest full,0.6064584621727479
+rnai,rnai,3,1,Life,Random forest full,0.3664366902938332
+rnai,rnai,1,1,Life,Random forest full,0.3062938331509761
+graphene,graphene,3,1,Nature,Random forest full,0.5949603174603175
+graphene,graphene,1,1,Nature,Random forest full,0.5026047206761494
+transformer,transformer,5,1,Machines,Random forest full,0.4260394763966192
+transformer,transformer,3,1,Machines,Random forest full,0.6295226757369614
+transformer,transformer,1,1,Machines,Random forest full,0.6068138528138527
+resnet,resnet,5,1,Machines,Random forest full,0.5255340136054423
+resnet,resnet,3,1,Machines,Random forest full,0.34603287981859415
+resnet,resnet,1,1,Machines,Random forest full,0.36995804988662134
+diffusion,diffusion,5,1,Machines,Random forest full,0.35203555967841665
+diffusion,diffusion,3,1,Machines,Random forest full,0.24351814058956917
+diffusion,diffusion,1,1,Machines,Random forest full,0.2512875695732838
+rag,rag,5,1,Machines,Random forest full,0.5335725623582767
+rag,rag,3,1,Machines,Random forest full,0.5112786023500311
+rag,rag,1,1,Machines,Random forest full,0.4777290249433107
+crispr_c1,crispr,5,0,Life,Random forest full,0.283937641723356
+crispr_c1,crispr,3,0,Life,Random forest full,0.45864007421150277
+crispr_c1,crispr,1,0,Life,Random forest full,0.4205822510822509
+crispr_c2,crispr,3,0,Life,Random forest full,0.20238662131519272
+crispr_c2,crispr,1,0,Life,Random forest full,0.19183124018838307
+ips_c1,ips,5,0,Life,Random forest full,0.24583302411873834
+ips_c1,ips,3,0,Life,Random forest full,0.38566893424036264
+ips_c1,ips,1,0,Life,Random forest full,0.3216587301587302
+ips_c2,ips,5,0,Life,Random forest full,0.3428701298701299
+ips_c2,ips,3,0,Life,Random forest full,0.3973540507111937
+ips_c2,ips,1,0,Life,Random forest full,0.31773015873015875
+mrna_c1,mrna,5,0,Life,Random forest full,0.24605648319934037
+mrna_c1,mrna,3,0,Life,Random forest full,0.22292403628117904
+mrna_c1,mrna,1,0,Life,Random forest full,0.1891604823747681
+mrna_c2,mrna,5,0,Life,Random forest full,0.3413387961245104
+mrna_c2,mrna,3,0,Life,Random forest full,0.29110977118119974
+mrna_c2,mrna,1,0,Life,Random forest full,0.09511767597481884
+alphafold2_c1,alphafold2,5,0,Life,Random forest full,0.3267412904555762
+alphafold2_c1,alphafold2,3,0,Life,Random forest full,0.6642095444238301
+alphafold2_c1,alphafold2,1,0,Life,Random forest full,0.34932292310863744
+alphafold2_c2,alphafold2,5,0,Life,Random forest full,0.6348115852401565
+alphafold2_c2,alphafold2,3,0,Life,Random forest full,0.19988775510204088
+alphafold2_c2,alphafold2,1,0,Life,Random forest full,0.18250113378684815
+singlecell_c1,singlecell,5,0,Life,Random forest full,0.7620429808286953
+singlecell_c1,singlecell,3,0,Life,Random forest full,0.9027854050711195
+singlecell_c1,singlecell,1,0,Life,Random forest full,0.7422173778602351
+singlecell_c2,singlecell,5,0,Life,Random forest full,0.28293764172335595
+singlecell_c2,singlecell,3,0,Life,Random forest full,0.3124501133786848
+singlecell_c2,singlecell,1,0,Life,Random forest full,0.16150340136054425
+rnai_c1,rnai,5,0,Life,Random forest full,0.35244557823129247
+rnai_c1,rnai,3,0,Life,Random forest full,0.3203629941487084
+rnai_c1,rnai,1,0,Life,Random forest full,0.20033395176252322
+graphene_c1,graphene,5,0,Nature,Random forest full,0.3037385075242219
+graphene_c1,graphene,3,0,Nature,Random forest full,0.1966317254174398
+graphene_c1,graphene,1,0,Nature,Random forest full,0.21082694289837153
+graphene_c2,graphene,5,0,Nature,Random forest full,0.3244605236033807
+graphene_c2,graphene,3,0,Nature,Random forest full,0.27369542362399507
+graphene_c2,graphene,1,0,Nature,Random forest full,0.28095392702535554
+transformer_c1,transformer,3,0,Machines,Random forest full,0.5973362193362194
+transformer_c1,transformer,1,0,Machines,Random forest full,0.16003823953823962
+transformer_c2,transformer,5,0,Machines,Random forest full,0.3252925170068026
+transformer_c2,transformer,3,0,Machines,Random forest full,0.271969387755102
+transformer_c2,transformer,1,0,Machines,Random forest full,0.24087950937950933
+resnet_c1,resnet,5,0,Machines,Random forest full,0.5329274376417235
+resnet_c1,resnet,3,0,Machines,Random forest full,0.38107596371882085
+resnet_c1,resnet,1,0,Machines,Random forest full,0.39592743764172333
+resnet_c2,resnet,5,0,Machines,Random forest full,0.3992344877344877
+resnet_c2,resnet,3,0,Machines,Random forest full,0.5667084106369821
+resnet_c2,resnet,1,0,Machines,Random forest full,0.2722403628117915
+diffusion_c1,diffusion,3,0,Machines,Random forest full,0.2565665842094414
+diffusion_c1,diffusion,1,0,Machines,Random forest full,0.2845642135642136
+diffusion_c2,diffusion,5,0,Machines,Random forest full,0.1754195011337869
+diffusion_c2,diffusion,3,0,Machines,Random forest full,0.10575510204081633
+diffusion_c2,diffusion,1,0,Machines,Random forest full,0.21389795918367344
+rag_c1,rag,5,0,Machines,Random forest full,0.4587887033601319
+rag_c1,rag,3,0,Machines,Random forest full,0.3394936095650381
+rag_c1,rag,1,0,Machines,Random forest full,0.39755978148835297
+rag_c2,rag,5,0,Machines,Random forest full,0.4705340136054421
+rag_c2,rag,3,0,Machines,Random forest full,0.41278344671201816
+rag_c2,rag,1,0,Machines,Random forest full,0.19315873015873017
+qec_c1,qec,5,0,Nature,Random forest full,0.4526074005359718
+qec_c1,qec,3,0,Nature,Random forest full,0.4453727066584209
+qec_c1,qec,1,0,Nature,Random forest full,0.4168088023088022
+crispr,crispr,5,1,Life,HistGradientBoosting full,0.007592001980572179
+crispr,crispr,3,1,Life,HistGradientBoosting full,0.0007791048967573836
+crispr,crispr,1,1,Life,HistGradientBoosting full,0.0020527237120552184
+ips,ips,5,1,Life,HistGradientBoosting full,0.9387934090879236
+ips,ips,3,1,Life,HistGradientBoosting full,0.7553308165319926
+ips,ips,1,1,Life,HistGradientBoosting full,0.025582533204245934
+mrna,mrna,5,1,Life,HistGradientBoosting full,0.0031908326622454527
+mrna,mrna,3,1,Life,HistGradientBoosting full,0.0021982580114033668
+mrna,mrna,1,1,Life,HistGradientBoosting full,0.00281721869194747
+alphafold2,alphafold2,1,1,Life,HistGradientBoosting full,0.020131032782862567
+singlecell,singlecell,5,1,Life,HistGradientBoosting full,0.9577423876533014
+singlecell,singlecell,3,1,Life,HistGradientBoosting full,0.9370706202706387
+singlecell,singlecell,1,1,Life,HistGradientBoosting full,0.7133410439891874
+rnai,rnai,3,1,Life,HistGradientBoosting full,0.0015456694601949422
+rnai,rnai,1,1,Life,HistGradientBoosting full,0.0024689464267633513
+graphene,graphene,3,1,Nature,HistGradientBoosting full,0.32357242306100004
+graphene,graphene,1,1,Nature,HistGradientBoosting full,0.43270163503417886
+transformer,transformer,5,1,Machines,HistGradientBoosting full,0.19903210642718963
+transformer,transformer,3,1,Machines,HistGradientBoosting full,0.14928609294331582
+transformer,transformer,1,1,Machines,HistGradientBoosting full,0.40846121274865377
+resnet,resnet,5,1,Machines,HistGradientBoosting full,0.26175305945798366
+resnet,resnet,3,1,Machines,HistGradientBoosting full,0.05227369705848863
+resnet,resnet,1,1,Machines,HistGradientBoosting full,0.07564113082437239
+diffusion,diffusion,5,1,Machines,HistGradientBoosting full,0.05492501370960002
+diffusion,diffusion,3,1,Machines,HistGradientBoosting full,0.014183572179867491
+diffusion,diffusion,1,1,Machines,HistGradientBoosting full,0.02783434561580502
+rag,rag,5,1,Machines,HistGradientBoosting full,0.4328906293952265
+rag,rag,3,1,Machines,HistGradientBoosting full,0.48553665557161585
+rag,rag,1,1,Machines,HistGradientBoosting full,0.8322314674086997
+crispr_c1,crispr,5,0,Life,HistGradientBoosting full,0.17691011494462808
+crispr_c1,crispr,3,0,Life,HistGradientBoosting full,0.37706489320373476
+crispr_c1,crispr,1,0,Life,HistGradientBoosting full,0.25032316512121994
+crispr_c2,crispr,3,0,Life,HistGradientBoosting full,0.10568800957553245
+crispr_c2,crispr,1,0,Life,HistGradientBoosting full,0.022014764081193107
+ips_c1,ips,5,0,Life,HistGradientBoosting full,0.018530233899927525
+ips_c1,ips,3,0,Life,HistGradientBoosting full,0.26768324997833437
+ips_c1,ips,1,0,Life,HistGradientBoosting full,0.40562938740303184
+ips_c2,ips,5,0,Life,HistGradientBoosting full,0.12616409706805534
+ips_c2,ips,3,0,Life,HistGradientBoosting full,0.14207384247526977
+ips_c2,ips,1,0,Life,HistGradientBoosting full,0.20051085501488475
+mrna_c1,mrna,5,0,Life,HistGradientBoosting full,0.0010888608529231122
+mrna_c1,mrna,3,0,Life,HistGradientBoosting full,0.012168388446100657
+mrna_c1,mrna,1,0,Life,HistGradientBoosting full,0.011176932682998648
+mrna_c2,mrna,5,0,Life,HistGradientBoosting full,0.028240552389357226
+mrna_c2,mrna,3,0,Life,HistGradientBoosting full,0.06293638946511353
+mrna_c2,mrna,1,0,Life,HistGradientBoosting full,0.005684545425911638
+alphafold2_c1,alphafold2,5,0,Life,HistGradientBoosting full,0.33802070095406395
+alphafold2_c1,alphafold2,3,0,Life,HistGradientBoosting full,0.8775862295268143
+alphafold2_c1,alphafold2,1,0,Life,HistGradientBoosting full,0.595539789365488
+alphafold2_c2,alphafold2,5,0,Life,HistGradientBoosting full,0.2242333199876536
+alphafold2_c2,alphafold2,3,0,Life,HistGradientBoosting full,0.06330595405472023
+alphafold2_c2,alphafold2,1,0,Life,HistGradientBoosting full,0.07012811705037668
+singlecell_c1,singlecell,5,0,Life,HistGradientBoosting full,0.9806356300658231
+singlecell_c1,singlecell,3,0,Life,HistGradientBoosting full,0.9964704183232305
+singlecell_c1,singlecell,1,0,Life,HistGradientBoosting full,0.95919753886829
+singlecell_c2,singlecell,5,0,Life,HistGradientBoosting full,0.00022646886533706355
+singlecell_c2,singlecell,3,0,Life,HistGradientBoosting full,0.010449759216226755
+singlecell_c2,singlecell,1,0,Life,HistGradientBoosting full,0.0007407673150018018
+rnai_c1,rnai,5,0,Life,HistGradientBoosting full,0.0027528208752659556
+rnai_c1,rnai,3,0,Life,HistGradientBoosting full,0.07091881103824206
+rnai_c1,rnai,1,0,Life,HistGradientBoosting full,0.0001274722402489639
+graphene_c1,graphene,5,0,Nature,HistGradientBoosting full,0.005068036743378049
+graphene_c1,graphene,3,0,Nature,HistGradientBoosting full,0.0018538478473832162
+graphene_c1,graphene,1,0,Nature,HistGradientBoosting full,0.003156882235701886
+graphene_c2,graphene,5,0,Nature,HistGradientBoosting full,0.20169976254165836
+graphene_c2,graphene,3,0,Nature,HistGradientBoosting full,0.0536682321101113
+graphene_c2,graphene,1,0,Nature,HistGradientBoosting full,0.07342574976653993
+transformer_c1,transformer,3,0,Machines,HistGradientBoosting full,0.5491726232245184
+transformer_c1,transformer,1,0,Machines,HistGradientBoosting full,0.00015700776407687596
+transformer_c2,transformer,5,0,Machines,HistGradientBoosting full,0.0017397158806450046
+transformer_c2,transformer,3,0,Machines,HistGradientBoosting full,0.0025592388106051123
+transformer_c2,transformer,1,0,Machines,HistGradientBoosting full,0.014933458209145765
+resnet_c1,resnet,5,0,Machines,HistGradientBoosting full,0.8176636418694815
+resnet_c1,resnet,3,0,Machines,HistGradientBoosting full,0.16764673473094607
+resnet_c1,resnet,1,0,Machines,HistGradientBoosting full,0.22965206813118608
+resnet_c2,resnet,5,0,Machines,HistGradientBoosting full,0.5127539604006028
+resnet_c2,resnet,3,0,Machines,HistGradientBoosting full,0.8218854614693503
+resnet_c2,resnet,1,0,Machines,HistGradientBoosting full,0.05679286015034823
+diffusion_c1,diffusion,3,0,Machines,HistGradientBoosting full,0.022007943487045826
+diffusion_c1,diffusion,1,0,Machines,HistGradientBoosting full,0.12003717340181719
+diffusion_c2,diffusion,5,0,Machines,HistGradientBoosting full,0.007106650956973731
+diffusion_c2,diffusion,3,0,Machines,HistGradientBoosting full,0.0006827294073033451
+diffusion_c2,diffusion,1,0,Machines,HistGradientBoosting full,0.02539388379073193
+rag_c1,rag,5,0,Machines,HistGradientBoosting full,0.534765218095808
+rag_c1,rag,3,0,Machines,HistGradientBoosting full,0.2919966868462427
+rag_c1,rag,1,0,Machines,HistGradientBoosting full,0.3774514794878814
+rag_c2,rag,5,0,Machines,HistGradientBoosting full,0.24006716954174337
+rag_c2,rag,3,0,Machines,HistGradientBoosting full,0.4594544570438926
+rag_c2,rag,1,0,Machines,HistGradientBoosting full,0.310970248432052
+qec_c1,qec,5,0,Nature,HistGradientBoosting full,0.06428052555509065
+qec_c1,qec,3,0,Nature,HistGradientBoosting full,0.29062895837000036
+qec_c1,qec,1,0,Nature,HistGradientBoosting full,0.07700768036631939
