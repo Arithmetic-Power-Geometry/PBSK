@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Runtime data and credentials
+cache/
+.env
+*.key
+secrets.*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated results are intentionally retained only when explicitly committed.
+results/*.json
+results/tables/*.csv
+results/figures/*.png
+!results/.gitkeep
+!results/tables/.gitkeep
+!results/figures/.gitkeep
