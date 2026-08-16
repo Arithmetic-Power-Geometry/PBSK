@@ -1,16 +1,37 @@
 cff-version: 1.2.0
 title: "PBSK: Possibility-to-Breakthrough Structure in Knowledge"
-message: "If you use PBSK, please cite this software and the conceptual source listed below."
+message: "If you use PBSK, please cite this software and the related research and conceptual source listed below."
 type: software
+
 authors:
   - family-names: "Akhtar"
     given-names: "Mohammad Amir Khusru"
+
 year: 2026
 version: 4.0.0
 license: Apache-2.0
+
 repository-code: "https://github.com/Arithmetic-Power-Geometry/PBSK"
 url: "https://github.com/Arithmetic-Power-Geometry/PBSK"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21967787"
+    description: "Zenodo DOI for the related PBSK research study"
+
 references:
+  - type: article
+    authors:
+      - family-names: "Akhtar"
+        given-names: "Mohammad Amir Khusru"
+    title: "Before Scientific Emergence Becomes Visible: Independent Evidence for Structural Precursors in Large-Scale Scholarly Knowledge"
+    year: 2026
+    version: "V1"
+    doi: "10.5281/zenodo.21967787"
+    url: "https://doi.org/10.5281/zenodo.21967787"
+    publisher:
+      name: "Zenodo"
+
   - type: book
     authors:
       - family-names: "Akhtar"
