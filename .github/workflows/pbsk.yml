@@ -1,0 +1,109 @@
+name: PBSK Reproducible Run
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Analysis mode"
+        required: true
+        default: "full"
+        type: choice
+        options: [full, smoke]
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test-and-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+      NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+      PBSK_CONTACT_EMAIL: ${{ vars.PBSK_CONTACT_EMAIL }}
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install PBSK
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -e .
+      - name: Unit and integrity tests
+        run: |
+          python -m compileall -q src tests
+          pytest -q
+      - name: Restore scholarly API cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            cache/openalex
+            cache/pubmed
+          key: pbsk-api-v4-${{ runner.os }}-${{ hashFiles('config/default.yaml', 'data/landmark_benchmark.csv', 'data/matched_controls.csv') }}
+          restore-keys: |
+            pbsk-api-v4-${{ runner.os }}-
+      - name: Select mode
+        id: mode
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=smoke" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Validate full-run scholarly API credentials
+        if: steps.mode.outputs.mode == 'full'
+        shell: bash
+        run: |
+          test -n "$OPENALEX_API_KEY" || (echo "OPENALEX_API_KEY is required for full mode." && exit 2)
+          python - <<'PY'
+          from pbsk.config import load_config
+          from pbsk.openalex import OpenAlexClient
+          cfg=load_config('config/default.yaml')
+          info=OpenAlexClient(cfg['openalex']).rate_limit()
+          print('OpenAlex preflight PASS; credential accepted.')
+          PY
+      - name: Run PBSK
+        run: python -m pbsk.cli "${{ steps.mode.outputs.mode }}" --config config/default.yaml
+      - name: Validate completed full run
+        if: steps.mode.outputs.mode == 'full'
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          p=pathlib.Path('results/run_summary.json')
+          if not p.exists():
+              raise SystemExit('run_summary.json was not generated')
+          s=json.loads(p.read_text())
+          if s.get('status') != 'PASS':
+              raise SystemExit(f"PBSK full run status is {s.get('status')}: inspect retrieval and temporal-lock QC")
+          if int(s.get('figure_errors', 0)) != 0:
+              raise SystemExit(f"Figure-generation software errors: {s.get('figure_errors')}")
+          print('Full-run integrity PASS:', json.dumps({k:s.get(k) for k in ['status','software_version','temporal_lock_pass','modeling_ready','figures_generated','figure_errors','tables_generated']}, indent=2))
+          PY
+      - name: Package result artifact
+        if: always()
+        shell: bash
+        run: |
+          mkdir -p artifact
+          cp -R results artifact/ 2>/dev/null || true
+          cp -R cache/manifests artifact/manifests 2>/dev/null || true
+          cp data/book_operationalization.csv artifact/ 2>/dev/null || true
+          cp config/default.yaml artifact/ 2>/dev/null || true
+      - name: Upload complete results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pbsk-results-${{ steps.mode.outputs.mode }}
+          path: artifact/
+          if-no-files-found: warn
+          retention-days: 30
