@@ -1,0 +1,13 @@
+case_id,label,query,domain,landmark_year,doi,pmid,book_realm
+crispr,CRISPR-Cas genome editing,CRISPR Cas9 genome editing,Life Sciences,2012,10.1126/science.1225829,22745249.0,Life
+ips,Induced pluripotent stem cells,induced pluripotent stem cells reprogramming,Life Sciences,2006,10.1016/j.cell.2006.07.024,16904174.0,Life
+mrna,mRNA vaccine technology,messenger RNA vaccine mRNA vaccination,Life Sciences,2020,10.1056/NEJMoa2034577,33301246.0,Life
+alphafold2,AlphaFold2 protein structure prediction,protein structure prediction deep learning AlphaFold,Life Sciences,2021,10.1038/s41586-021-03819-2,34265844.0,Life
+singlecell,Single-cell RNA sequencing,single cell RNA sequencing transcriptomics,Life Sciences,2009,10.1038/nmeth.1315,19349980.0,Life
+rnai,RNA interference,RNA interference double stranded RNA gene silencing,Life Sciences,1998,10.1038/35888,9486653.0,Life
+graphene,Graphene isolation,graphene two dimensional carbon monolayer,Physical Sciences,2004,10.1126/science.1102896,15499015.0,Nature
+transformer,Transformer architecture,attention transformer neural network sequence model,Computer Science,2017,10.48550/arXiv.1706.03762,,Machines
+resnet,Deep residual networks,deep residual learning residual neural network,Computer Science,2015,10.48550/arXiv.1512.03385,,Machines
+diffusion,Diffusion generative models,diffusion probabilistic generative model denoising,Computer Science,2020,10.48550/arXiv.2006.11239,,Machines
+rag,Retrieval-augmented generation,retrieval augmented generation language model,Computer Science,2020,10.48550/arXiv.2005.11401,,Machines
+qec,Quantum error correction,quantum error correcting code decoherence,Physical Sciences,1995,10.1103/PhysRevA.52.R2493,,Nature

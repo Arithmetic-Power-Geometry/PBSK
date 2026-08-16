@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+pandas>=2.2,<3
+requests>=2.32,<3
+PyYAML>=6.0,<7
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+pytest>=8.2,<9
